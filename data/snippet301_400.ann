@@ -1,0 +1,1499 @@
+T600	Snippet 0 31	Worsened bibasilar atelectasis.
+T1	Cos 0 8	Worsened
+T2	Loc 9 18	bibasilar
+T3	Attr 19 30	atelectasis
+T601	Snippet 32 130	There is a right pleural effusions and bibasilar atelectasis, slightly increased on the left side.
+T4	Loc 43 56	right pleural
+T5	Attr 57 66	effusions
+T6	Loc 71 80	bibasilar
+T7	Attr 81 92	atelectasis
+T8	Cos 94 112	slightly increased
+T9	Loc 113 129	on the left side
+T602	Snippet 131 302	No substantial interval change patchy bilateral lung opacities including left lower lobe collapse, and previously noted left pneumothorax, allowing for lower lung volumes.
+T10	Cos 131 161	No substantial interval change
+T11	Val 162 168	patchy
+T12	Loc 169 183	bilateral lung
+T13	Attr 184 193	opacities
+T14	Loc 204 219	left lower lobe
+T15	Attr 220 228	collapse
+T16	Ref 234 250	previously noted
+T17	Loc 251 255	left
+T19	Val 283 288	lower
+T18	Loc 289 293	lung
+T20	Attr 294 301	volumes
+T21	Cos 303 309	Stable
+T603	Snippet 303 376	Stable right midlung opacity corresponding to known pulmonary laceration.
+T22	Loc 310 323	right midlung
+T23	Attr 324 331	opacity
+T26	Val 349 354	known
+T24	Loc 355 364	pulmonary
+T25	Attr 365 375	laceration
+T27	Loc 377 381	Lung
+T604	Snippet 377 573	Lung volumes are somewhat lower. Mild interval worsening to left greater than right patchy pulmonary and perihilar opacities, likely at least partially related to low lung volumes and atelectasis.
+T28	Attr 382 389	volumes
+T29	Cos 394 408	somewhat lower
+T30	Cos 410 433	Mild interval worsening
+T31	Val 437 460	left greater than right
+T32	Loc 482 491	perihilar
+T33	Attr 492 501	opacities
+T34	Diagnosis 503 572	likely at least partially related to low lung volumes and atelectasis
+T605	Snippet 574 620	The lungs show multifocal opacities as before.
+T35	Loc 578 583	lungs
+T36	Val 589 599	multifocal
+T37	Attr 600 609	opacities
+T38	Ref 610 619	as before
+T606	Snippet 621 677	Persistently low lung volumes and bibasilar atelectasis.
+T39	Cos 621 633	Persistently
+T40	Val 634 637	low
+T41	Loc 638 642	lung
+T42	Attr 643 650	volumes
+T43	Loc 655 664	bibasilar
+T44	Attr 665 676	atelectasis
+T45	Loc 678 683	Lungs
+T607	Snippet 678 740	Lungs: Persistent lower lung volumes with basilar atelectasis.
+T46	Cos 685 695	Persistent
+T47	Val 696 701	lower
+T48	Loc 702 706	lung
+T49	Attr 707 714	volumes
+T50	Loc 720 727	basilar
+T51	Attr 728 739	atelectasis
+T52	Loc 741 746	Lungs
+T608	Snippet 741 818	Lungs: Bilateral lower lobe lung opacities accentuated by lower lung volumes.
+T53	Loc 748 773	Bilateral lower lobe lung
+T54	Attr 774 783	opacities
+T55	Loc 799 809	lower lung
+T56	Attr 810 817	volumes
+T57	Loc 819 836	Bilateral basilar
+T609	Snippet 819 945	Bilateral basilar opacities persist. This may represent atelectasis or in the proper clinical setting aspiration or pneumonia.
+T58	Attr 837 846	opacities
+T59	Cos 847 854	persist
+T60	Diagnosis 856 944	This may represent atelectasis or in the proper clinical setting aspiration or pneumonia
+T610	Snippet 946 977	There is bibasilar atelectasis.
+T61	Loc 955 964	bibasilar
+T62	Attr 965 976	atelectasis
+T63	Loc 978 983	Lungs
+T611	Snippet 978 1051	Lungs: Stable bilateral pulmonary opacities, consistent with lung injury.
+T64	Cos 985 991	Stable
+T65	Loc 992 1011	bilateral pulmonary
+T66	Attr 1012 1021	opacities
+T67	Diagnosis 1023 1050	consistent with lung injury
+T612	Snippet 1052 1201	There is interval silhouetting of the right and left hemidiaphragm suggesting worsening pleural effusion and associated atelectasis or consolidation.
+T68	Val 1061 1069	interval
+T69	Attr 1070 1082	silhouetting
+T70	Loc 1090 1118	right and left hemidiaphragm
+T71	Val 1130 1139	worsening
+T72	Loc 1140 1147	pleural
+T73	Attr 1148 1156	effusion
+T74	Attr 1172 1183	atelectasis
+T75	Attr 1187 1200	consolidation
+T613	Duplicate 1202 1229	No new focal abnormalities.
+T614	Snippet 1230 1312	There is new obscuration of the left hemidiaphragm, likely reflecting atelectasis.
+T79	Cos 1239 1242	new
+T80	Attr 1243 1254	obscuration
+T81	Loc 1262 1280	left hemidiaphragm
+T82	Diagnosis 1282 1311	likely reflecting atelectasis
+T615	Snippet 1313 1384	Opacities: Patchy, confluent bibasilar opacities have improved slightly
+T83	Attr 1313 1322	Opacities
+T84	Val 1324 1330	Patchy
+T85	Loc 1342 1351	bibasilar
+T86	Attr 1352 1361	opacities
+T87	Cos 1367 1384	improved slightly
+T616	Snippet 1385 1519	There is diffuse bilateral lung opacity, worse at the left base, as before.  Exam essentially unchanged compared to most recent prior.
+T88	Val 1394 1401	diffuse
+T89	Loc 1402 1416	bilateral lung
+T90	Attr 1417 1424	opacity
+T91	Cos 1426 1431	worse
+T92	Loc 1439 1448	left base
+T93	Ref 1450 1459	as before
+T94	Cos 1479 1488	unchanged
+T95	Ref 1489 1518	compared to most recent prior
+T96	Cos 1520 1529	Unchanged
+T617	Snippet 1520 1590	Unchanged bibasilar atelectasis and small bilateral pleural effusions.
+T97	Loc 1530 1539	bibasilar
+T98	Attr 1540 1551	atelectasis
+T99	Val 1556 1561	small
+T100	Loc 1562 1579	bilateral pleural
+T101	Attr 1580 1589	effusions
+T618	Duplicate 1591 1669	No change in diffuse lung opacities consistent with pulmonary edema/pneumonia.
+T107	Loc 1670 1687	Right middle lobe
+T619	Snippet 1670 1752	Right middle lobe opacity is unchanged, could be atelectasis or reexpansion edema.
+T109	Attr 1688 1695	opacity
+T108	Cos 1699 1708	unchanged
+T110	Diagnosis 1710 1751	could be atelectasis or reexpansion edema
+T620	Snippet 1753 1872	In summary, examination is worse when compared to the recent comparison examination dated March 00, 0000 at 0:00 hours.
+T111	Cos 1780 1785	worse
+T112	Ref 1791 1871	compared to the recent comparison examination dated March 00, 0000 at 0:00 hours
+T113	Val 1873 1880	Diffuse
+T621	Snippet 1873 1964	Diffuse lung disease has improved, either from pulmonary edema, infection, alveolar damage.
+T114	Loc 1881 1885	lung
+T115	Attr 1886 1893	disease
+T116	Cos 1898 1906	improved
+T117	Diagnosis 1908 1963	either from pulmonary edema, infection, alveolar damage
+T622	Snippet 1965 2038	The lungs show persistent left upper lobe pulmonary contusion/laceration.
+T118	Loc 1969 1974	lungs
+T119	Cos 1980 1990	persistent
+T120	Loc 1991 2016	left upper lobe pulmonary
+T121	Attr 2017 2037	contusion/laceration
+T623	Snippet 2039 2139	There is linear atelectasis in the right mid lung. Bibasilar opacities likely represent atelectasis.
+T122	Val 2048 2054	linear
+T123	Attr 2055 2066	atelectasis
+T124	Loc 2074 2088	right mid lung
+T125	Loc 2090 2099	Bibasilar
+T126	Attr 2100 2109	opacities
+T127	Diagnosis 2110 2138	likely represent atelectasis
+T128	Cos 2140 2146	Stable
+T624	Snippet 2140 2206	Stable, bilateral effusions with adjacent atelectasis are present.
+T129	Loc 2148 2157	bilateral
+T130	Attr 2158 2167	effusions
+T131	Val 2173 2181	adjacent
+T132	Attr 2182 2193	atelectasis
+T133	Loc 2207 2212	Lungs
+T625	Snippet 2207 2328	Lungs: Unchanged bilateral pulmonary opacities possibly related to pulmonary edema or underlying contusion or pneumonia..
+T134	Cos 2214 2223	Unchanged
+T135	Loc 2224 2243	bilateral pulmonary
+T136	Attr 2244 2253	opacities
+T137	Diagnosis 2254 2326	possibly related to pulmonary edema or underlying contusion or pneumonia
+T626	Snippet 2329 2439	Allowing for low lung volumes, no change in moderate edema and patchy atelectasis. No new focal abnormalities.
+T138	Val 2342 2345	low
+T139	Loc 2346 2350	lung
+T140	Attr 2351 2358	volumes
+T141	Cos 2360 2369	no change
+T142	Val 2373 2381	moderate
+T143	Attr 2382 2387	edema
+T144	Val 2392 2398	patchy
+T145	Attr 2399 2410	atelectasis
+T146	Cos 2412 2418	No new
+T147	Val 2419 2424	focal
+T148	Attr 2425 2438	abnormalities
+T627	Snippet 2440 2587	There is somewhat improved aeration of the right upper lung; however, diffuse bilateral parenchymal opacities persist, most pronounced on the left.
+T149	Val 2449 2466	somewhat improved
+T150	Attr 2467 2475	aeration
+T151	Loc 2483 2499	right upper lung
+T152	Val 2510 2517	diffuse
+T153	Loc 2518 2539	bilateral parenchymal
+T154	Attr 2540 2549	opacities
+T155	Cos 2550 2557	persist
+T156	Val 2559 2574	most pronounced
+T157	Loc 2575 2586	on the left
+T158	Loc 2588 2601	Right basilar
+T628	Snippet 2588 2658	Right basilar airspace disease and moderate pleural effusion persists.
+T159	Attr 2602 2618	airspace disease
+T160	Val 2623 2631	moderate
+T161	Loc 2632 2639	pleural
+T162	Attr 2640 2648	effusion
+T163	Cos 2649 2657	persists
+T629	Snippet 2659 2713	No substantial interval change in pulmonary opacities.
+T164	Cos 2659 2689	No substantial interval change
+T165	Loc 2693 2702	pulmonary
+T166	Attr 2703 2712	opacities
+T630	Snippet 2714 2831	There has been continued progression of diffuse lung injury pattern with worsening of right lower lobe opacification.
+T167	Cos 2729 2750	continued progression
+T168	Val 2754 2761	diffuse
+T169	Loc 2762 2766	lung
+T170	Attr 2767 2781	injury pattern
+T171	Cos 2787 2796	worsening
+T172	Loc 2800 2816	right lower lobe
+T173	Attr 2817 2830	opacification
+T174	Loc 2832 2837	Lungs
+T631	Snippet 2832 2906	Lungs: Left lower lobe consolidation. Mild right lower lobe consolidation.
+T175	Loc 2839 2854	Left lower lobe
+T176	Attr 2855 2868	consolidation
+T177	Val 2870 2874	Mild
+T178	Loc 2875 2891	right lower lobe
+T179	Attr 2892 2905	consolidation
+T632	Snippet 2907 3036	Low lung volumes with bibasilar atelectasis and persistent left lower lobe collapse.  Improved aeration of the right middle lobe.
+T180	Val 2907 2910	Low
+T181	Loc 2911 2915	lung
+T182	Attr 2916 2923	volumes
+T183	Loc 2929 2938	bibasilar
+T184	Attr 2939 2950	atelectasis
+T185	Cos 2955 2965	persistent
+T186	Loc 2966 2981	left lower lobe
+T187	Attr 2982 2990	collapse
+T188	Cos 2993 3001	Improved
+T189	Attr 3002 3010	aeration
+T190	Loc 3018 3035	right middle lobe
+T191	Attr 3037 3046	Opacities
+T633	Snippet 3037 3091	Opacities: Diffuse, confluent: Bibasilar and unchanged
+T192	Val 3048 3055	Diffuse
+T193	Loc 3068 3077	Bibasilar
+T194	Cos 3082 3091	unchanged
+T634	Snippet 3092 3169	Diffuse lung edema or injury has worsened.  The chest is otherwise unchanged.
+T195	Val 3092 3099	Diffuse
+T196	Loc 3100 3104	lung
+T197	Attr 3105 3110	edema
+T198	Attr 3114 3120	injury
+T199	Cos 3125 3133	worsened
+T200	Loc 3140 3145	chest
+T201	Cos 3159 3168	unchanged
+T635	Snippet 3170 3266	The chest is otherwise unchanged, again demonstrating right lower lobe atelectasis or contusion.
+T202	Loc 3174 3179	chest
+T203	Cos 3193 3202	unchanged
+T204	Ref 3204 3209	again
+T205	Loc 3224 3240	right lower lobe
+T206	Attr 3241 3252	atelectasis
+T207	Attr 3256 3265	contusion
+T208	Cos 3267 3276	No change
+T636	Snippet 3267 3367	No change in diffuse lung opacities consistent with diffuse lung injury. No new focal abnormalities.
+T209	Val 3280 3287	diffuse
+T210	Loc 3288 3292	lung
+T211	Attr 3293 3302	opacities
+T212	Diagnosis 3303 3338	consistent with diffuse lung injury
+T213	Cos 3340 3346	No new
+T214	Val 3347 3352	focal
+T215	Attr 3353 3366	abnormalities
+T216	Val 3368 3374	Patchy
+T637	Snippet 3368 3446	Patchy opacities in the right upper, lower, and left lower lobe are unchanged.
+T217	Attr 3375 3384	opacities
+T218	Loc 3392 3431	right upper, lower, and left lower lobe
+T219	Cos 3436 3445	unchanged
+T638	Snippet 3447 3513	Patchy bilateral atelectasis is not significantly changed overall.
+T220	Val 3447 3453	Patchy
+T221	Loc 3454 3463	bilateral
+T222	Attr 3464 3475	atelectasis
+T223	Cos 3479 3512	not significantly changed overall
+T224	Loc 3514 3519	Basal
+T639	Snippet 3514 3545	Basal atelectasis is unchanged.
+T225	Attr 3520 3531	atelectasis
+T226	Cos 3535 3544	unchanged
+T640	Snippet 3546 3658	Since the prior examination, lung volumes have diminished and there is partial bilateral lower lobe atelectasis.
+T227	Ref 3546 3573	Since the prior examination
+T228	Loc 3575 3579	lung
+T229	Attr 3580 3587	volumes
+T230	Cos 3593 3603	diminished
+T231	Loc 3617 3645	partial bilateral lower lobe
+T232	Attr 3646 3657	atelectasis
+T641	Snippet 3659 3784	Compared to yesterday's examination, there is no change in appearance of dense left basilar atelectasis and low lung volumes.
+T233	Ref 3659 3694	Compared to yesterday's examination
+T234	Cos 3705 3731	no change in appearance of
+T235	Val 3732 3737	dense
+T236	Loc 3738 3750	left basilar
+T237	Attr 3751 3762	atelectasis
+T238	Val 3767 3770	low
+T239	Loc 3771 3775	lung
+T240	Attr 3776 3783	volumes
+T241	Loc 3785 3810	Right and left lower lobe
+T642	Snippet 3785 3869	Right and left lower lobe volume loss and left lower lung zone atelectasis persists.
+T242	Attr 3811 3822	volume loss
+T243	Loc 3827 3847	left lower lung zone
+T244	Attr 3848 3859	atelectasis
+T245	Cos 3860 3868	persists
+T643	Snippet 3870 3895	No new focal abnormality.
+T246	Cos 3870 3876	No new
+T247	Val 3877 3882	focal
+T248	Attr 3883 3894	abnormality
+T249	Cos 3896 3906	Persistent
+T644	Snippet 3896 3983	Persistent bibasal consolidation could be due to atelectasis, aspiration, or pneumonia.
+T250	Loc 3907 3914	bibasal
+T251	Attr 3915 3928	consolidation
+T252	Diagnosis 3929 3982	could be due to atelectasis, aspiration, or pneumonia
+T253	Cos 3984 3993	Increased
+T645	Snippet 3984 4063	Increased left lower lobe atelectasis and persistent atelectasis at right base.
+T254	Loc 3994 4009	left lower lobe
+T255	Attr 4010 4021	atelectasis
+T256	Cos 4026 4036	persistent
+T257	Attr 4037 4048	atelectasis
+T258	Loc 4052 4062	right base
+T646	Snippet 4064 4220	There is mild bi-basilar atelectasis and bilateral pleural effusions, relatively similar in appearance to the prior examination. No new focal consolidation.
+T259	Val 4073 4077	mild
+T260	Loc 4078 4088	bi-basilar
+T261	Attr 4089 4100	atelectasis
+T262	Loc 4105 4122	bilateral pleural
+T263	Attr 4123 4132	effusions
+T264	Ref 4134 4191	relatively similar in appearance to the prior examination
+T265	Cos 4193 4199	No new
+T266	Val 4200 4205	focal
+T267	Attr 4206 4219	consolidation
+T268	Cos 4221 4231	Persistent
+T647	Snippet 4221 4347	Persistent pleural effusions and adjacent basal atelectasis. Persistent diffuse lung disease, likely edema or alveolar damage.
+T269	Loc 4232 4239	pleural
+T270	Attr 4240 4249	effusions
+T271	Val 4254 4262	adjacent
+T272	Loc 4263 4268	basal
+T273	Attr 4269 4280	atelectasis
+T274	Cos 4282 4292	Persistent
+T275	Val 4293 4300	diffuse
+T276	Loc 4301 4305	lung
+T277	Attr 4306 4313	disease
+T278	Diagnosis 4315 4346	likely edema or alveolar damage
+T279	Cos 4348 4351	New
+T648	Snippet 4348 4377	New atelectasis at left base.
+T280	Attr 4352 4363	atelectasis
+T281	Loc 4367 4376	left base
+T649	Snippet 4378 4442	Slight improvement in the left base opacity, likely atelectasis.
+T282	Cos 4378 4396	Slight improvement
+T283	Loc 4404 4413	left base
+T284	Attr 4414 4421	opacity
+T285	Diagnosis 4423 4441	likely atelectasis
+T650	Snippet 4443 4507	There are severe, bilateral patchy opacities that are unchanged.
+T286	Val 4453 4459	severe
+T288	Loc 4461 4470	bilateral
+T287	Val 4471 4477	patchy
+T289	Attr 4478 4487	opacities
+T290	Cos 4497 4506	unchanged
+T651	Snippet 4508 4605	Diffuse pulmonary opacities may be related to underlying pulmonary edema or pneumonia/contusions.
+T291	Val 4508 4515	Diffuse
+T292	Loc 4516 4525	pulmonary
+T293	Attr 4526 4535	opacities
+T294	Diagnosis 4536 4605	may be related to underlying pulmonary edema or pneumonia/contusions.
+T652	Snippet 4606 4636	Basilar atelectasis as before.
+T295	Loc 4606 4613	Basilar
+T296	Attr 4614 4625	atelectasis
+T297	Ref 4626 4635	as before
+T653	Snippet 4637 4754	Stable perihilar and bibasilar opacities which may be artifact of low lung volumes or represent mild pulmonary edema.
+T298	Cos 4637 4643	Stable
+T299	Loc 4644 4653	perihilar
+T300	Attr 4668 4677	opacities
+T301	Diagnosis 4678 4753	which may be artifact of low lung volumes or represent mild pulmonary edema
+T654	Snippet 4755 4846	The lungs are clear, except for moderate bibasilar atelectasis. No new focal abnormalities.
+T302	Loc 4759 4764	lungs
+T303	Val 4769 4774	clear
+T304	Val 4787 4795	moderate
+T305	Loc 4796 4805	bibasilar
+T306	Attr 4806 4817	atelectasis
+T307	Cos 4819 4825	No new
+T308	Val 4826 4831	focal
+T309	Attr 4832 4845	abnormalities
+T310	Cos 4847 4856	Worsening
+T655	Snippet 4847 4927	Worsening diffuse lung injury pattern representing alveolar damage and/or edema.
+T311	Val 4857 4864	diffuse
+T312	Loc 4865 4869	lung
+T313	Attr 4870 4884	injury pattern
+T314	Diagnosis 4885 4926	representing alveolar damage and/or edema
+T656	Snippet 4928 5024	As before, there is asymmetric density in the right lung, likely representing basal volume loss.
+T315	Ref 4928 4937	As before
+T316	Val 4948 4958	asymmetric
+T317	Attr 4959 4966	density
+T318	Loc 4974 4984	right lung
+T319	Diagnosis 4986 5023	likely representing basal volume loss
+T657	Snippet 5025 5099	Patchy opacities in the right lung represent atelectasis versus pneumonia.
+T320	Val 5025 5031	Patchy
+T321	Attr 5032 5041	opacities
+T322	Loc 5049 5059	right lung
+T323	Diagnosis 5060 5098	represent atelectasis versus pneumonia
+T658	Snippet 5100 5122	Bibasilar atelectasis.
+T324	Loc 5100 5109	Bibasilar
+T325	Attr 5110 5121	atelectasis
+T659	Snippet 5123 5174	Low lung volume with bibasilar atelectasis persist.
+T326	Val 5123 5126	Low
+T327	Loc 5127 5131	lung
+T328	Attr 5132 5138	volume
+T329	Loc 5144 5153	bibasilar
+T330	Attr 5154 5165	atelectasis
+T331	Cos 5166 5173	persist
+T660	Snippet 5175 5250	Worsening diffuse lung opacities consistent with pulmonary edema/pneumonia.
+T332	Cos 5175 5184	Worsening
+T333	Val 5185 5192	diffuse
+T334	Loc 5193 5197	lung
+T335	Attr 5198 5207	opacities
+T336	Diagnosis 5208 5249	consistent with pulmonary edema/pneumonia
+T661	Snippet 5251 5329	Improved right basilar atelectasis and persistent left lower lobe atelectasis.
+T337	Cos 5251 5259	Improved
+T338	Loc 5260 5273	right basilar
+T339	Attr 5274 5285	atelectasis
+T340	Cos 5290 5300	persistent
+T341	Loc 5301 5316	left lower lobe
+T342	Attr 5317 5328	atelectasis
+T343	Loc 5330 5347	Bilateral pleural
+T662	Snippet 5330 5436	Bilateral pleural effusions are present, unchanged.  These impart part lower lobe compressive atelectasis.
+T344	Attr 5348 5357	effusions
+T345	Cos 5371 5380	unchanged
+T346	Diagnosis 5383 5435	These impart part lower lobe compressive atelectasis
+T663	Snippet 5437 5519	Worsening lung edema and patchy atelectasis/pneumonia. No new focal abnormalities.
+T347	Cos 5437 5446	Worsening
+T348	Loc 5447 5451	lung
+T349	Attr 5452 5457	edema
+T350	Val 5462 5468	patchy
+T351	Attr 5469 5490	atelectasis/pneumonia
+T352	Cos 5492 5498	No new
+T353	Val 5499 5504	focal
+T354	Attr 5505 5518	abnormalities
+T664	Snippet 5520 5647	The chest is otherwise unchanged, again demonstrating basilar lung consolidation consistent with aspiration or other pneumonia.
+T355	Loc 5524 5529	chest
+T356	Cos 5543 5552	unchanged
+T357	Ref 5554 5559	again
+T361	Loc 5574 5586	basilar lung
+T362	Attr 5587 5600	consolidation
+T363	Diagnosis 5554 5646	again demonstrating basilar lung consolidation consistent with aspiration or other pneumonia
+T665	Snippet 5648 5781	The chest is otherwise unchanged, again demonstrating low lung volumes, bilateral lower lobe atelectasis, and right pleural effusion.
+T358	Loc 5652 5657	chest
+T359	Cos 5671 5680	unchanged
+T360	Ref 5682 5687	again
+T364	Val 5702 5705	low
+T365	Loc 5706 5710	lung
+T366	Attr 5711 5718	volumes
+T367	Loc 5720 5740	bilateral lower lobe
+T368	Attr 5741 5752	atelectasis
+T369	Loc 5758 5771	right pleural
+T370	Attr 5772 5780	effusion
+T666	Snippet 5782 5876	Again, there is opacification of the right lung, which may represent atelectasis or pneumonia.
+T371	Ref 5782 5787	Again
+T372	Attr 5798 5811	opacification
+T373	Loc 5819 5829	right lung
+T374	Diagnosis 5831 5875	which may represent atelectasis or pneumonia
+T667	Snippet 5877 5968	The lungs show patchy bilateral atelectasis/pneumonia, without substantial interval change.
+T375	Loc 5881 5886	lungs
+T376	Val 5892 5898	patchy
+T377	Loc 5899 5908	bilateral
+T378	Attr 5909 5930	atelectasis/pneumonia
+T379	Cos 5932 5967	without substantial interval change
+T668	Snippet 5969 6053	No substantial interval change previously noted diffuse lung opacities, nonspecific.
+T380	Cos 5969 5999	No substantial interval change
+T381	Ref 6000 6016	previously noted
+T382	Val 6017 6024	diffuse
+T383	Loc 6025 6029	lung
+T384	Attr 6030 6039	opacities
+T669	Snippet 6054 6135	Opacities: Marked confluent opacities noted throughout the right lung, unchanged.
+T385	Attr 6054 6063	Opacities
+T386	Val 6065 6071	Marked
+T387	Attr 6082 6091	opacities
+T388	Loc 6098 6123	throughout the right lung
+T389	Cos 6125 6134	unchanged
+T670	Snippet 6136 6221	There is new consolidation of the left lower lobe indicating pneumonia or aspiration.
+T390	Cos 6145 6148	new
+T391	Attr 6149 6162	consolidation
+T392	Loc 6170 6185	left lower lobe
+T393	Diagnosis 6186 6220	indicating pneumonia or aspiration
+T394	Cos 6222 6231	Unchanged
+T671	Snippet 6222 6274	Unchanged appearance of bilateral basilar opacities.
+T395	Loc 6246 6263	bilateral basilar
+T396	Attr 6264 6273	opacities
+T397	Loc 6275 6280	Lungs
+T672	Snippet 6275 6326	Lungs: Low lung volumes with bibasilar atelectasis.
+T398	Val 6282 6285	Low
+T399	Loc 6286 6290	lung
+T400	Attr 6291 6298	volumes
+T401	Loc 6304 6313	bibasilar
+T402	Attr 6314 6325	atelectasis
+T673	Snippet 6327 6528	There are persistent unchanged bilateral basilar opacities obscuring the bilateral hemidiaphragms.  Findings may represent atelectasis, effusion or infection.  The lung volumes remain mildly decreased.
+T403	Cos 6337 6357	persistent unchanged
+T404	Loc 6358 6375	bilateral basilar
+T405	Attr 6376 6385	opacities
+T406	Loc 6400 6424	bilateral hemidiaphragms
+T407	Diagnosis 6427 6484	Findings may represent atelectasis, effusion or infection
+T408	Loc 6491 6495	lung
+T409	Attr 6496 6503	volumes
+T411	Cos 6504 6510	remain
+T410	Val 6511 6527	mildly decreased
+T674	Snippet 6529 6821	Lung volumes are lower. The right middle and lower lobes are collapsed. Unchanged appearance of pulmonary laceration. There is likely a left pleural effusion. Slight rightward deviation of the trachea likely secondary to combination of atelectasis, left pleural effusion and patient rotation.
+T412	Loc 6529 6533	Lung
+T413	Attr 6534 6541	volumes
+T414	Cos 6546 6551	lower
+T415	Loc 6557 6585	right middle and lower lobes
+T416	Attr 6590 6599	collapsed
+T417	Cos 6601 6610	Unchanged
+T418	Loc 6625 6634	pulmonary
+T419	Attr 6635 6645	laceration
+T420	Diagnosis 6647 6686	There is likely a left pleural effusion
+T421	Val 6688 6694	Slight
+T422	Attr 6705 6714	deviation
+T423	Loc 6722 6729	trachea
+T424	Diagnosis 6730 6820	likely secondary to combination of atelectasis, left pleural effusion and patient rotation
+T675	Snippet 6822 6905	Stable bilateral lower lobe opacity, could represent aspiration versus atelectasis.
+T425	Val 6822 6828	Stable
+T426	Loc 6829 6849	bilateral lower lobe
+T427	Attr 6850 6857	opacity
+T428	Diagnosis 6859 6904	could represent aspiration versus atelectasis
+T676	Snippet 6906 7022	Interval increase in the basilar lung opacities with a possible right pleural effusion.  Unchanged low lung volumes.
+T429	Cos 6906 6923	Interval increase
+T430	Loc 6931 6943	basilar lung
+T431	Attr 6944 6953	opacities
+T432	Val 6961 6969	possible
+T433	Loc 6970 6983	right pleural
+T434	Attr 6984 6992	effusion
+T435	Cos 6995 7004	Unchanged
+T436	Val 7005 7008	low
+T437	Loc 7009 7013	lung
+T438	Attr 7014 7021	volumes
+T439	Cos 7023 7032	No change
+T677	Snippet 7023 7154	No change in mild edema and patchy atelectasis, except for interval recollapse of the right upper lobe. No new focal abnormalities.
+T440	Val 7036 7040	mild
+T441	Attr 7041 7046	edema
+T442	Val 7051 7057	patchy
+T443	Attr 7058 7069	atelectasis
+T444	Cos 7082 7101	interval recollapse
+T445	Loc 7109 7125	right upper lobe
+T446	Cos 7127 7133	No new
+T447	Val 7134 7139	focal
+T448	Attr 7140 7153	abnormalities
+T678	Snippet 7155 7214	Lung volumes are low. Bibasilar pulmonary opacities persist
+T449	Loc 7155 7159	Lung
+T450	Attr 7160 7167	volumes
+T451	Val 7172 7175	low
+T452	Loc 7177 7196	Bibasilar pulmonary
+T453	Attr 7197 7206	opacities
+T454	Cos 7207 7214	persist
+T679	Snippet 7215 7321	Redemonstrated is bilateral lower lobe atelectasis and/or aspiration pneumonitis, right greater than left.
+T455	Loc 7233 7253	bilateral lower lobe
+T456	Attr 7254 7265	atelectasis
+T457	Attr 7273 7295	aspiration pneumonitis
+T458	Val 7297 7320	right greater than left
+T680	Duplicate 7322 7400	No change in diffuse lung opacities consistent with pulmonary edema/pneumonia.
+T681	Snippet 7401 7495	Impression: Interval increase in right upper lobe density, consistent with worsening collapse.
+T464	Cos 7413 7430	Interval increase
+T465	Loc 7434 7450	right upper lobe
+T466	Attr 7451 7458	density
+T467	Diagnosis 7460 7494	consistent with worsening collapse
+T468	Loc 7496 7501	Lungs
+T682	Snippet 7496 7554	Lungs: Resolved right lower lung opacity. Lungs are clear.
+T469	Loc 7512 7528	right lower lung
+T470	Attr 7529 7536	opacity
+T471	Loc 7538 7543	Lungs
+T472	Val 7548 7553	clear
+T473	Cos 7555 7564	No change
+T683	Snippet 7555 7619	No change in diffuse lung opacities. No new focal abnormalities.
+T474	Val 7568 7575	diffuse
+T475	Loc 7576 7580	lung
+T476	Attr 7581 7590	opacities
+T477	Cos 7592 7598	No new
+T478	Val 7599 7604	focal
+T479	Attr 7605 7618	abnormalities
+T480	Cos 7620 7630	Persistent
+T684	Snippet 7620 7689	Persistent bilateral lower lobe atelectasis, right greater than left.
+T481	Loc 7631 7651	bilateral lower lobe
+T482	Attr 7652 7663	atelectasis
+T483	Val 7665 7688	right greater than left
+T685	Snippet 7690 7752	Left lower lobe atelectasis. Patchy atelectasis at right base.
+T484	Loc 7690 7705	Left lower lobe
+T485	Attr 7706 7717	atelectasis
+T486	Val 7719 7725	Patchy
+T487	Attr 7726 7737	atelectasis
+T488	Loc 7741 7751	right base
+T686	Snippet 7753 7836	Lung volumes remain low with patchy bibasilar atelectasis and mild pulmonary edema.
+T489	Loc 7753 7757	Lung
+T490	Attr 7758 7765	volumes
+T492	Cos 7766 7772	remain
+T491	Val 7773 7776	low
+T493	Val 7782 7788	patchy
+T494	Loc 7789 7798	bibasilar
+T495	Attr 7799 7810	atelectasis
+T496	Val 7815 7819	mild
+T497	Loc 7820 7829	pulmonary
+T498	Attr 7830 7835	edema
+T687	Snippet 7837 7961	Left base opacity has increased and right base opacity persists which could represent atelectasis, aspiration, or pneumonia.
+T499	Loc 7837 7846	Left base
+T500	Attr 7847 7854	opacity
+T501	Cos 7859 7868	increased
+T502	Loc 7873 7883	right base
+T503	Attr 7884 7891	opacity
+T504	Cos 7892 7900	persists
+T505	Diagnosis 7901 7960	which could represent atelectasis, aspiration, or pneumonia
+T506	Loc 7962 7966	Lung
+T688	Snippet 7962 8107	Lung volumes are slightly low.  There is no significant interval change in patchy atelectasis/pneumonia with persistent left lower lobe collapse.
+T507	Attr 7967 7974	volumes
+T508	Val 7979 7991	slightly low
+T509	Cos 8003 8033	no significant interval change
+T510	Val 8037 8043	patchy
+T511	Attr 8044 8065	atelectasis/pneumonia
+T512	Cos 8071 8081	persistent
+T513	Loc 8082 8097	left lower lobe
+T514	Attr 8098 8106	collapse
+T689	Snippet 8108 8181	Bilateral pulmonary consolidations from infection or edema are unchanged.
+T515	Loc 8108 8127	Bilateral pulmonary
+T516	Attr 8128 8142	consolidations
+T517	Diagnosis 8143 8166	from infection or edema
+T518	Cos 8171 8180	unchanged
+T519	Loc 8182 8187	Lungs
+T690	Snippet 8182 8248	Lungs: Left basilar atelectasis persists.  No new focal opacities.
+T520	Loc 8189 8201	Left basilar
+T521	Attr 8202 8213	atelectasis
+T522	Cos 8214 8222	persists
+T523	Cos 8225 8231	No new
+T524	Val 8232 8237	focal
+T525	Attr 8238 8247	opacities
+T691	Snippet 8249 8394	No substantial interval change mild diffuse lung opacities, left greater than right.  No new focal abnormalities to explain respiratory distress.
+T526	Cos 8249 8279	No substantial interval change
+T527	Val 8280 8292	mild diffuse
+T528	Loc 8293 8297	lung
+T529	Attr 8298 8307	opacities
+T530	Val 8309 8332	left greater than right
+T531	Cos 8335 8341	No new
+T532	Val 8342 8347	focal
+T533	Attr 8348 8361	abnormalities
+T535	Loc 8395 8400	Lungs
+T692	Snippet 8395 8486	Lungs: Bilateral diffuse lung disease persists and has increased at the apices bilaterally.
+T573	Loc 8402 8411	Bilateral
+T574	Val 8412 8419	diffuse
+T575	Loc 8420 8424	lung
+T576	Attr 8425 8432	disease
+T577	Cos 8433 8441	persists
+T578	Cos 8446 8459	has increased
+T579	Loc 8467 8485	apices bilaterally
+T693	Snippet 8487 8568	Lungs: Right minor fissure is depressed indicating right middle lobe atelectasis.
+T536	Loc 8487 8492	Lungs
+T537	Loc 8494 8499	Right
+T538	Val 8500 8505	minor
+T539	Attr 8506 8513	fissure
+T540	Val 8517 8526	depressed
+T541	Diagnosis 8527 8567	indicating right middle lobe atelectasis
+T694	Snippet 8569 8623	There is left basal consolidation, likely atelectasis.
+T542	Loc 8578 8588	left basal
+T543	Attr 8589 8602	consolidation
+T544	Diagnosis 8604 8622	likely atelectasis
+T695	Snippet 8624 8690	Bibasilar opacities persist representing atelectasis or pneumonia.
+T545	Loc 8624 8633	Bibasilar
+T546	Attr 8634 8643	opacities
+T547	Cos 8644 8651	persist
+T548	Diagnosis 8652 8689	representing atelectasis or pneumonia
+T696	Snippet 8691 8719	Stable diffuse lung disease.
+T549	Val 8698 8705	diffuse
+T550	Loc 8706 8710	lung
+T551	Attr 8711 8718	disease
+T697	Snippet 8720 8803	Lungs: Unchanged degree of pulmonary vascular congestion and bibasilar atelectasis.
+T552	Loc 8720 8725	Lungs
+T553	Cos 8727 8736	Unchanged
+T554	Loc 8747 8765	pulmonary vascular
+T555	Attr 8766 8776	congestion
+T556	Loc 8781 8790	bibasilar
+T557	Attr 8791 8802	atelectasis
+T698	Snippet 8804 8963	The lungs show patchy bilateral atelectasis/pneumonia, without substantial interval change except for likely some increased volume loss in the left lower lobe.
+T558	Loc 8808 8813	lungs
+T559	Val 8819 8825	patchy
+T560	Loc 8826 8835	bilateral
+T561	Attr 8836 8857	atelectasis/pneumonia
+T562	Cos 8859 8894	without substantial interval change
+T563	Cos 8913 8927	some increased
+T564	Attr 8928 8939	volume loss
+T565	Loc 8947 8962	left lower lobe
+T699	Snippet 8964 9092	Lung volumes are extremely low. Diffuse lung disease may represent edema, or alternatively, may be artifact of low lung volumes.
+T566	Loc 8964 8968	Lung
+T567	Attr 8969 8976	volumes
+T568	Val 8981 8994	extremely low
+T569	Val 8996 9003	Diffuse
+T570	Loc 9004 9008	lung
+T571	Attr 9009 9016	disease
+T572	Diagnosis 9017 9091	may represent edema, or alternatively, may be artifact of low lung volumes
+R1	Location Arg1:T3 Arg2:T2
+R2	State Arg1:T1 Arg2:T3
+R3	Location Arg1:T5 Arg2:T4
+R4	Location Arg1:T7 Arg2:T6
+R8	Value Arg1:T13 Arg2:T11
+R7	Location Arg1:T13 Arg2:T12
+R9	Location Arg1:T15 Arg2:T14
+R11	Value Arg1:T20 Arg2:T19
+R10	Location Arg1:T20 Arg2:T18
+R15	Location Arg1:T23 Arg2:T22
+R18	Value Arg1:T25 Arg2:T26
+R17	Location Arg1:T25 Arg2:T24
+R19	Location Arg1:T28 Arg2:T27
+R23	Value Arg1:T33 Arg2:T31
+R22	Location Arg1:T33 Arg2:T32
+R21	State Arg1:T30 Arg2:T33
+R25	Location Arg1:T37 Arg2:T35
+R24	Value Arg1:T37 Arg2:T36
+R26	Referenced-by Arg1:T37 Arg2:T38
+R28	Value Arg1:T42 Arg2:T40
+R27	Location Arg1:T42 Arg2:T41
+R29	Location Arg1:T44 Arg2:T43
+R34	Value Arg1:T49 Arg2:T47
+R33	Location Arg1:T49 Arg2:T48
+R35	Location Arg1:T51 Arg2:T50
+R40	Location Arg1:T54 Arg2:T53
+R41	Location Arg1:T56 Arg2:T55
+R42	Location Arg1:T58 Arg2:T57
+R43	State Arg1:T59 Arg2:T58
+R44	Location Arg1:T62 Arg2:T61
+R45	Location Arg1:T66 Arg2:T65
+R48	Value Arg1:T69 Arg2:T68
+R49	Location Arg1:T69 Arg2:T70
+R50	Location Arg1:T73 Arg2:T72
+R57	State Arg1:T79 Arg2:T80
+R56	Location Arg1:T80 Arg2:T81
+R59	Value Arg1:T86 Arg2:T84
+R58	Location Arg1:T86 Arg2:T85
+R60	State Arg1:T87 Arg2:T86
+R63	Value Arg1:T90 Arg2:T88
+R62	Location Arg1:T90 Arg2:T89
+R64	State Arg1:T91 Arg2:T90
+R66	Referenced-by Arg1:T91 Arg2:T93
+R61	Referenced-by Arg1:T94 Arg2:T95
+R67	Location Arg1:T98 Arg2:T97
+R69	Value Arg1:T101 Arg2:T99
+R68	Location Arg1:T101 Arg2:T100
+R75	Location Arg1:T109 Arg2:T107
+R76	State Arg1:T108 Arg2:T109
+R77	Referenced-by Arg1:T111 Arg2:T112
+R79	Value Arg1:T115 Arg2:T113
+R78	Location Arg1:T115 Arg2:T114
+R80	State Arg1:T116 Arg2:T115
+R82	Location Arg1:T121 Arg2:T120
+R83	State Arg1:T119 Arg2:T121
+R84	Value Arg1:T123 Arg2:T122
+R85	Location Arg1:T123 Arg2:T124
+R86	Location Arg1:T126 Arg2:T125
+R87	Location Arg1:T130 Arg2:T129
+R89	Value Arg1:T132 Arg2:T131
+R90	Location Arg1:T136 Arg2:T135
+R91	State Arg1:T134 Arg2:T136
+R94	Value Arg1:T140 Arg2:T138
+R93	Location Arg1:T140 Arg2:T139
+R95	Value Arg1:T143 Arg2:T142
+R96	Value Arg1:T145 Arg2:T144
+R99	Value Arg1:T148 Arg2:T147
+R100	State Arg1:T146 Arg2:T148
+R101	Value Arg1:T150 Arg2:T149
+R102	Location Arg1:T150 Arg2:T151
+R104	Value Arg1:T154 Arg2:T152
+R103	Location Arg1:T154 Arg2:T153
+R107	State Arg1:T155 Arg2:T154
+R105	Value Arg1:T154 Arg2:T156
+R108	Location Arg1:T159 Arg2:T158
+R110	Value Arg1:T162 Arg2:T160
+R109	Location Arg1:T162 Arg2:T161
+R113	Location Arg1:T166 Arg2:T165
+R114	State Arg1:T164 Arg2:T166
+R116	Value Arg1:T170 Arg2:T168
+R115	Location Arg1:T170 Arg2:T169
+R117	State Arg1:T167 Arg2:T170
+R118	Location Arg1:T173 Arg2:T172
+R119	State Arg1:T171 Arg2:T173
+R120	Location Arg1:T176 Arg2:T175
+R123	Value Arg1:T179 Arg2:T177
+R122	Location Arg1:T179 Arg2:T178
+R125	Value Arg1:T182 Arg2:T180
+R124	Location Arg1:T182 Arg2:T181
+R126	Location Arg1:T184 Arg2:T183
+R127	Location Arg1:T187 Arg2:T186
+R128	State Arg1:T185 Arg2:T187
+R130	State Arg1:T188 Arg2:T189
+R129	Location Arg1:T189 Arg2:T190
+R133	State Arg1:T194 Arg2:T191
+R131	Value Arg1:T191 Arg2:T192
+R132	Location Arg1:T191 Arg2:T193
+R140	State Arg1:T201 Arg2:T200
+R141	State Arg1:T203 Arg2:T202
+R145	Value Arg1:T211 Arg2:T209
+R144	Location Arg1:T211 Arg2:T210
+R146	State Arg1:T208 Arg2:T211
+R147	Value Arg1:T215 Arg2:T214
+R148	State Arg1:T213 Arg2:T215
+R149	Value Arg1:T217 Arg2:T216
+R151	State Arg1:T219 Arg2:T217
+R150	Location Arg1:T217 Arg2:T218
+R153	Value Arg1:T222 Arg2:T220
+R152	Location Arg1:T222 Arg2:T221
+R154	State Arg1:T223 Arg2:T222
+R155	Location Arg1:T225 Arg2:T224
+R156	State Arg1:T226 Arg2:T225
+R159	Referenced-by Arg1:T230 Arg2:T227
+R157	Location Arg1:T229 Arg2:T228
+R158	State Arg1:T230 Arg2:T229
+R160	Location Arg1:T232 Arg2:T231
+R165	Referenced-by Arg1:T234 Arg2:T233
+R162	Value Arg1:T237 Arg2:T235
+R161	Location Arg1:T237 Arg2:T236
+R164	Value Arg1:T240 Arg2:T238
+R163	Location Arg1:T240 Arg2:T239
+R168	Location Arg1:T242 Arg2:T241
+R169	Location Arg1:T244 Arg2:T243
+R172	Value Arg1:T248 Arg2:T247
+R173	State Arg1:T246 Arg2:T248
+R174	Location Arg1:T251 Arg2:T250
+R175	State Arg1:T249 Arg2:T251
+R176	Location Arg1:T255 Arg2:T254
+R177	State Arg1:T253 Arg2:T255
+R179	State Arg1:T256 Arg2:T257
+R178	Location Arg1:T257 Arg2:T258
+R181	Value Arg1:T261 Arg2:T259
+R180	Location Arg1:T261 Arg2:T260
+R182	Location Arg1:T263 Arg2:T262
+R185	Value Arg1:T267 Arg2:T266
+R186	State Arg1:T265 Arg2:T267
+R187	Location Arg1:T270 Arg2:T269
+R189	Value Arg1:T273 Arg2:T271
+R188	Location Arg1:T273 Arg2:T272
+R193	Value Arg1:T277 Arg2:T275
+R192	Location Arg1:T277 Arg2:T276
+R194	State Arg1:T274 Arg2:T277
+R196	State Arg1:T279 Arg2:T280
+R195	Location Arg1:T280 Arg2:T281
+R197	Location Arg1:T284 Arg2:T283
+R198	State Arg1:T282 Arg2:T284
+R201	Value Arg1:T289 Arg2:T286
+R200	Location Arg1:T289 Arg2:T288
+R199	Value Arg1:T289 Arg2:T287
+R202	State Arg1:T290 Arg2:T289
+R204	Value Arg1:T293 Arg2:T291
+R203	Location Arg1:T293 Arg2:T292
+R205	Location Arg1:T296 Arg2:T295
+R206	Referenced-by Arg1:T296 Arg2:T297
+R207	Location Arg1:T300 Arg2:T299
+R210	Value Arg1:T306 Arg2:T304
+R209	Location Arg1:T306 Arg2:T305
+R211	Value Arg1:T309 Arg2:T308
+R212	State Arg1:T307 Arg2:T309
+R214	Value Arg1:T313 Arg2:T311
+R213	Location Arg1:T313 Arg2:T312
+R215	State Arg1:T310 Arg2:T313
+R218	Referenced-by Arg1:T317 Arg2:T315
+R216	Value Arg1:T317 Arg2:T316
+R217	Location Arg1:T317 Arg2:T318
+R219	Value Arg1:T321 Arg2:T320
+R220	Location Arg1:T321 Arg2:T322
+R221	Location Arg1:T325 Arg2:T324
+R223	Value Arg1:T328 Arg2:T326
+R222	Location Arg1:T328 Arg2:T327
+R224	Location Arg1:T330 Arg2:T329
+R228	Value Arg1:T335 Arg2:T333
+R227	Location Arg1:T335 Arg2:T334
+R229	State Arg1:T332 Arg2:T335
+R230	Location Arg1:T339 Arg2:T338
+R231	State Arg1:T337 Arg2:T339
+R232	Location Arg1:T342 Arg2:T341
+R233	State Arg1:T340 Arg2:T342
+R234	Location Arg1:T344 Arg2:T343
+R235	State Arg1:T345 Arg2:T344
+R236	Location Arg1:T349 Arg2:T348
+R237	Value Arg1:T351 Arg2:T350
+R240	Value Arg1:T354 Arg2:T353
+R241	State Arg1:T352 Arg2:T354
+R242	State Arg1:T356 Arg2:T355
+R244	Location Arg1:T362 Arg2:T361
+R245	State Arg1:T359 Arg2:T358
+R248	Value Arg1:T366 Arg2:T364
+R247	Location Arg1:T366 Arg2:T365
+R249	Location Arg1:T368 Arg2:T367
+R250	Location Arg1:T370 Arg2:T369
+R252	Referenced-by Arg1:T372 Arg2:T371
+R251	Location Arg1:T372 Arg2:T373
+R254	Value Arg1:T378 Arg2:T376
+R255	Location Arg1:T378 Arg2:T377
+R256	State Arg1:T379 Arg2:T378
+R259	Referenced-by Arg1:T380 Arg2:T381
+R258	Value Arg1:T384 Arg2:T382
+R257	Location Arg1:T384 Arg2:T383
+R260	State Arg1:T380 Arg2:T384
+R261	Value Arg1:T387 Arg2:T386
+R263	State Arg1:T389 Arg2:T387
+R262	Location Arg1:T387 Arg2:T388
+R265	State Arg1:T390 Arg2:T391
+R264	Location Arg1:T391 Arg2:T392
+R266	Location Arg1:T396 Arg2:T395
+R267	State Arg1:T394 Arg2:T396
+R271	Value Arg1:T400 Arg2:T398
+R270	Location Arg1:T400 Arg2:T399
+R272	Location Arg1:T402 Arg2:T401
+R273	Location Arg1:T405 Arg2:T404
+R275	State Arg1:T403 Arg2:T405
+R276	Location Arg1:T409 Arg2:T408
+R278	State Arg1:T411 Arg2:T409
+R277	Value Arg1:T409 Arg2:T410
+R279	Location Arg1:T413 Arg2:T412
+R281	Location Arg1:T416 Arg2:T415
+R282	Location Arg1:T419 Arg2:T418
+R283	State Arg1:T417 Arg2:T419
+R285	Value Arg1:T422 Arg2:T421
+R284	Location Arg1:T422 Arg2:T423
+R287	Value Arg1:T427 Arg2:T425
+R286	Location Arg1:T427 Arg2:T426
+R288	Location Arg1:T431 Arg2:T430
+R291	Value Arg1:T434 Arg2:T432
+R290	Location Arg1:T434 Arg2:T433
+R293	Value Arg1:T438 Arg2:T436
+R292	Location Arg1:T438 Arg2:T437
+R294	State Arg1:T435 Arg2:T438
+R295	Value Arg1:T441 Arg2:T440
+R296	Value Arg1:T443 Arg2:T442
+R299	State Arg1:T444 Arg2:T445
+R300	Value Arg1:T448 Arg2:T447
+R301	State Arg1:T446 Arg2:T448
+R302	Location Arg1:T450 Arg2:T449
+R303	Value Arg1:T450 Arg2:T451
+R304	Location Arg1:T453 Arg2:T452
+R305	State Arg1:T454 Arg2:T453
+R313	Location Arg1:T466 Arg2:T465
+R314	State Arg1:T464 Arg2:T466
+R316	Location Arg1:T470 Arg2:T469
+R318	Value Arg1:T476 Arg2:T474
+R317	Location Arg1:T476 Arg2:T475
+R319	State Arg1:T473 Arg2:T476
+R320	Value Arg1:T479 Arg2:T478
+R321	State Arg1:T477 Arg2:T479
+R322	Location Arg1:T482 Arg2:T481
+R324	State Arg1:T480 Arg2:T482
+R323	Value Arg1:T482 Arg2:T483
+R325	Location Arg1:T485 Arg2:T484
+R326	Value Arg1:T487 Arg2:T486
+R327	Location Arg1:T487 Arg2:T488
+R328	Location Arg1:T490 Arg2:T489
+R330	State Arg1:T492 Arg2:T490
+R329	Value Arg1:T490 Arg2:T491
+R332	Value Arg1:T495 Arg2:T493
+R331	Location Arg1:T495 Arg2:T494
+R334	Value Arg1:T498 Arg2:T496
+R333	Location Arg1:T498 Arg2:T497
+R335	Location Arg1:T500 Arg2:T499
+R336	State Arg1:T501 Arg2:T500
+R337	Location Arg1:T503 Arg2:T502
+R338	State Arg1:T504 Arg2:T503
+R339	Location Arg1:T507 Arg2:T506
+R340	Value Arg1:T507 Arg2:T508
+R341	Value Arg1:T511 Arg2:T510
+R342	State Arg1:T509 Arg2:T511
+R343	Location Arg1:T514 Arg2:T513
+R344	State Arg1:T512 Arg2:T514
+R345	Location Arg1:T516 Arg2:T515
+R346	State Arg1:T518 Arg2:T516
+R348	Location Arg1:T521 Arg2:T520
+R349	Value Arg1:T525 Arg2:T524
+R350	State Arg1:T523 Arg2:T525
+R352	Value Arg1:T529 Arg2:T527
+R351	Location Arg1:T529 Arg2:T528
+R353	State Arg1:T526 Arg2:T529
+R354	Value Arg1:T529 Arg2:T530
+R355	Value Arg1:T533 Arg2:T532
+R356	State Arg1:T531 Arg2:T533
+R362	Value Arg1:T576 Arg2:T574
+R361	Location Arg1:T576 Arg2:T575
+R363	State Arg1:T577 Arg2:T576
+R366	Location Arg1:T539 Arg2:T537
+R365	Value Arg1:T539 Arg2:T538
+R367	Value Arg1:T539 Arg2:T540
+R368	Location Arg1:T543 Arg2:T542
+R369	Location Arg1:T546 Arg2:T545
+R370	State Arg1:T547 Arg2:T546
+R372	Value Arg1:T551 Arg2:T549
+R371	Location Arg1:T551 Arg2:T550
+R374	Location Arg1:T555 Arg2:T554
+R375	Location Arg1:T557 Arg2:T556
+R380	Value Arg1:T561 Arg2:T559
+R379	Location Arg1:T561 Arg2:T560
+R381	State Arg1:T562 Arg2:T561
+R383	State Arg1:T563 Arg2:T564
+R382	Location Arg1:T564 Arg2:T565
+R384	Location Arg1:T567 Arg2:T566
+R385	Value Arg1:T567 Arg2:T568
+R387	Value Arg1:T571 Arg2:T569
+R386	Location Arg1:T571 Arg2:T570
+#301	AnnotatorNotes T600	 ID=301 REPORT:Report_BAL_NEG_619.txt TYPE:CPIS START:179 END:210
+#302	AnnotatorNotes T601	 ID=302 REPORT:Report_819.txt TYPE:CPIS START:411 END:509 REPORT:Report_819.txt TYPE:PNA START:411 END:509
+#303	AnnotatorNotes T602	 ID=303 REPORT:Report_976.txt TYPE:CPIS START:137 END:234 REPORT:Report_976.txt TYPE:PNA START:137 END:234
+#304	AnnotatorNotes T603	 ID=304 REPORT:Report_922.txt TYPE:CPIS START:223 END:296 REPORT:Report_922.txt TYPE:PNA START:223 END:296
+#305	AnnotatorNotes T604	 ID=305 REPORT:Report_BAL_NEG_337.txt TYPE:CPIS START:144 END:344 REPORT:Report_BAL_NEG_337.txt TYPE:PNA START:144 END:344
+#306	AnnotatorNotes T605	 ID=306 REPORT:Report_638.txt TYPE:CPIS START:342 END:389
+#307	AnnotatorNotes T606	 ID=307 REPORT:Report_BAL_NEG_427.txt TYPE:CPIS START:161 END:217
+#308	AnnotatorNotes T607	 ID=308 REPORT:Report_13.txt TYPE:CPIS START:304 END:366 REPORT:Report_13.txt TYPE:PNA START:304 END:366
+#309	AnnotatorNotes T608	 ID=309 REPORT:Report_BAL_NEG_367.txt TYPE:CPIS START:304 END:383 REPORT:Report_BAL_NEG_367.txt TYPE:PNA START:304 END:383
+#310	AnnotatorNotes T609	 ID=310 REPORT:Report_BAL_NEG_263.txt TYPE:CPIS START:362 END:490 REPORT:Report_BAL_NEG_263.txt TYPE:PNA START:362 END:490
+#311	AnnotatorNotes T610	 ID=311 REPORT:Report_935.txt TYPE:CPIS START:337 END:368 REPORT:Report_935.txt TYPE:PNA START:337 END:368
+#312	AnnotatorNotes T611	 ID=312 REPORT:Report_557.txt TYPE:CPIS START:216 END:291
+#313	AnnotatorNotes T612	 ID=313 REPORT:Report_771.txt TYPE:CPIS START:268 END:417 REPORT:Report_771.txt TYPE:PNA START:268 END:417
+#315	AnnotatorNotes T614	 ID=315 REPORT:Report_985.txt TYPE:CPIS START:268 END:349 REPORT:Report_985.txt TYPE:PNA START:268 END:349
+#316	AnnotatorNotes T615	 ID=316 REPORT:Report_BAL_NEG_52.txt TYPE:CPIS START:209 END:282 REPORT:Report_BAL_NEG_52.txt TYPE:PNA START:209 END:282
+#317	AnnotatorNotes T616	 ID=317 REPORT:Report_BAL_NEG_276.txt TYPE:CPIS START:306 END:443 REPORT:Report_BAL_NEG_276.txt TYPE:PNA START:306 END:443
+#318	AnnotatorNotes T617	 ID=318 REPORT:Report_BAL_NEG_63.txt TYPE:CPIS START:245 END:316 REPORT:Report_BAL_NEG_63.txt TYPE:PNA START:245 END:316
+#320	AnnotatorNotes T619	 ID=320 REPORT:Report_65.txt TYPE:CPIS START:209 END:293
+#321	AnnotatorNotes T620	 ID=321 REPORT:Report_940.txt TYPE:PNA START:1154 END:1237
+#322	AnnotatorNotes T621	 ID=322 REPORT:Report_1003.txt TYPE:CPIS START:122 END:213 REPORT:Report_1003.txt TYPE:PNA START:122 END:213
+#323	AnnotatorNotes T622	 ID=323 REPORT:Report_BAL_NEG_95.txt TYPE:CPIS START:174 END:249 REPORT:Report_BAL_NEG_95.txt TYPE:PNA START:174 END:249
+#324	AnnotatorNotes T623	 ID=324 REPORT:Report_BAL_NEG_346.txt TYPE:CPIS START:355 END:457 REPORT:Report_BAL_NEG_346.txt TYPE:PNA START:355 END:457
+#325	AnnotatorNotes T624	 ID=325 REPORT:Report_941.txt TYPE:CPIS START:200 END:266 REPORT:Report_941.txt TYPE:PNA START:200 END:266
+#326	AnnotatorNotes T625	 ID=326 REPORT:Report_BAL_NEG_71.txt TYPE:CPIS START:223 END:346 REPORT:Report_BAL_NEG_71.txt TYPE:PNA START:223 END:346
+#327	AnnotatorNotes T626	 ID=327 REPORT:Report_BAL_NEG_395.txt TYPE:CPIS START:385 END:496 REPORT:Report_BAL_NEG_395.txt TYPE:PNA START:385 END:496
+#328	AnnotatorNotes T627	 ID=328 REPORT:Report_77.txt TYPE:CPIS START:184 END:333
+#329	AnnotatorNotes T628	 ID=329 REPORT:Report_490.txt TYPE:CPIS START:220 END:291
+#330	AnnotatorNotes T629	 ID=330 REPORT:Report_BAL_NEG_425.txt TYPE:CPIS START:249 END:304
+#331	AnnotatorNotes T630	 ID=331 REPORT:Report_461.txt TYPE:CPIS START:178 END:296 REPORT:Report_461.txt TYPE:PNA START:178 END:296 REPORT:Report_629.txt TYPE:CPIS START:212 END:330
+#332	AnnotatorNotes T631	 ID=332 REPORT:Report_BAL_NEG_62.txt TYPE:CPIS START:295 END:370 REPORT:Report_BAL_NEG_62.txt TYPE:PNA START:295 END:370
+#333	AnnotatorNotes T632	 ID=333 REPORT:Report_BAL_NEG_321.txt TYPE:CPIS START:163 END:294 REPORT:Report_BAL_NEG_321.txt TYPE:PNA START:163 END:294
+#334	AnnotatorNotes T633	 ID=334 REPORT:Report_BAL_NEG_267.txt TYPE:CPIS START:182 END:237 REPORT:Report_BAL_NEG_267.txt TYPE:PNA START:182 END:237
+#335	AnnotatorNotes T634	 ID=335 REPORT:Report_BAL_NEG_314.txt TYPE:CPIS START:263 END:342 REPORT:Report_BAL_NEG_314.txt TYPE:PNA START:263 END:342
+#336	AnnotatorNotes T635	 ID=336 REPORT:Report_1015.txt TYPE:CPIS START:298 END:395 REPORT:Report_1015.txt TYPE:PNA START:298 END:395
+#337	AnnotatorNotes T636	 ID=337 REPORT:Report_1002.txt TYPE:CPIS START:259 END:361 REPORT:Report_1002.txt TYPE:PNA START:259 END:361 REPORT:Report_23.txt TYPE:CPIS START:249 END:349 REPORT:Report_23.txt TYPE:PNA START:249 END:349 REPORT:Report_33.txt TYPE:CPIS START:188 END:288 REPORT:Report_33.txt TYPE:PNA START:188 END:288 REPORT:Report_44.txt TYPE:CPIS START:269 END:370 REPORT:Report_448.txt TYPE:CPIS START:438 END:540 REPORT:Report_459.txt TYPE:CPIS START:276 END:378 REPORT:Report_475.txt TYPE:CPIS START:263 END:363 REPORT:Report_483.txt TYPE:CPIS START:186 END:287 REPORT:Report_526.txt TYPE:CPIS START:306 END:408 REPORT:Report_560.txt TYPE:CPIS START:270 END:371 REPORT:Report_607.txt TYPE:CPIS START:178 END:279 REPORT:Report_622.txt TYPE:CPIS START:328 END:430 REPORT:Report_656.txt TYPE:CPIS START:229 END:330 REPORT:Report_783.txt TYPE:CPIS START:260 END:360 REPORT:Report_783.txt TYPE:PNA START:260 END:360 REPORT:Report_816.txt TYPE:CPIS START:249 END:349 REPORT:Report_816.txt TYPE:PNA START:249 END:349 REPORT:Report_912.txt TYPE:CPIS START:256 END:356 REPORT:Report_912.txt TYPE:PNA START:256 END:356 REPORT:Report_972.txt TYPE:CPIS START:269 END:369 REPORT:Report_972.txt TYPE:PNA START:269 END:369 REPORT:Report_998.txt TYPE:CPIS START:255 END:355 REPORT:Report_998.txt TYPE:PNA START:255 END:355 REPORT:Report_BAL_NEG_144.txt TYPE:CPIS START:267 END:368 REPORT:Report_BAL_NEG_144.txt TYPE:PNA START:267 END:368 REPORT:Report_BAL_NEG_175.txt TYPE:CPIS START:269 END:371 REPORT:Report_BAL_NEG_175.txt TYPE:PNA START:269 END:371 REPORT:Report_BAL_NEG_178.txt TYPE:CPIS START:356 END:458 REPORT:Report_BAL_NEG_178.txt TYPE:PNA START:356 END:458 REPORT:Report_BAL_NEG_34.txt TYPE:CPIS START:320 END:424 REPORT:Report_BAL_NEG_34.txt TYPE:PNA START:320 END:424 REPORT:Report_BAL_NEG_383.txt TYPE:CPIS START:263 END:365 REPORT:Report_BAL_NEG_383.txt TYPE:PNA START:263 END:365 REPORT:Report_BAL_NEG_40.txt TYPE:CPIS START:269 END:372 REPORT:Report_BAL_NEG_40.txt TYPE:PNA START:269 END:372 REPORT:Report_BAL_NEG_572.txt TYPE:CPIS START:288 END:389 REPORT:Report_BAL_NEG_60.txt TYPE:CPIS START:269 END:371 REPORT:Report_BAL_NEG_60.txt TYPE:PNA START:269 END:371 REPORT:Report_BAL_NEG_603.txt TYPE:CPIS START:230 END:331
+#338	AnnotatorNotes T637	 ID=338 REPORT:Report_768.txt TYPE:CPIS START:232 END:310 REPORT:Report_768.txt TYPE:PNA START:232 END:310
+#339	AnnotatorNotes T638	 ID=339 REPORT:Report_914.txt TYPE:CPIS START:175 END:240 REPORT:Report_914.txt TYPE:PNA START:175 END:240
+#340	AnnotatorNotes T639	 ID=340 REPORT:Report_808.txt TYPE:CPIS START:159 END:190
+#341	AnnotatorNotes T640	 ID=341 REPORT:Report_458.txt TYPE:CPIS START:249 END:362
+#342	AnnotatorNotes T641	 ID=342 REPORT:Report_833.txt TYPE:CPIS START:246 END:335 REPORT:Report_833.txt TYPE:PNA START:246 END:335
+#343	AnnotatorNotes T642	 ID=343 REPORT:Report_1020.txt TYPE:CPIS START:295 END:379 REPORT:Report_1020.txt TYPE:PNA START:295 END:379 REPORT:Report_668.txt TYPE:CPIS START:354 END:440
+#344	AnnotatorNotes T643	 ID=344 REPORT:Report_94.txt TYPE:CPIS START:345 END:369
+#345	AnnotatorNotes T644	 ID=345 REPORT:Report_BAL_NEG_470.txt TYPE:CPIS START:286 END:373 REPORT:Report_BAL_NEG_470.txt TYPE:PNA START:286 END:373
+#346	AnnotatorNotes T645	 ID=346 REPORT:Report_678.txt TYPE:CPIS START:160 END:240
+#347	AnnotatorNotes T646	 ID=347 REPORT:Report_BAL_NEG_27.txt TYPE:CPIS START:192 END:351 REPORT:Report_BAL_NEG_27.txt TYPE:PNA START:192 END:351
+#348	AnnotatorNotes T647	 ID=348 REPORT:Report_BAL_NEG_418.txt TYPE:CPIS START:150 END:281 REPORT:Report_BAL_NEG_418.txt TYPE:PNA START:150 END:281
+#349	AnnotatorNotes T648	 ID=349 REPORT:Report_BAL_NEG_586.txt TYPE:CPIS START:219 END:248
+#350	AnnotatorNotes T649	 ID=350 REPORT:Report_928.txt TYPE:CPIS START:258 END:322 REPORT:Report_928.txt TYPE:PNA START:258 END:322
+#351	AnnotatorNotes T650	 ID=351 REPORT:Report_BAL_NEG_560.txt TYPE:CPIS START:250 END:315
+#352	AnnotatorNotes T651	 ID=352 REPORT:Report_BAL_NEG_115.txt TYPE:CPIS START:542 END:641 REPORT:Report_BAL_NEG_115.txt TYPE:PNA START:542 END:641
+#353	AnnotatorNotes T652	 ID=353 REPORT:Report_BAL_NEG_573.txt TYPE:CPIS START:274 END:304
+#354	AnnotatorNotes T653	 ID=354 REPORT:Report_602.txt TYPE:CPIS START:200 END:321
+#355	AnnotatorNotes T654	 ID=355 REPORT:Report_841.txt TYPE:CPIS START:331 END:422 REPORT:Report_841.txt TYPE:PNA START:331 END:422
+#356	AnnotatorNotes T655	 ID=356 REPORT:Report_BAL_NEG_584.txt TYPE:CPIS START:174 END:255
+#357	AnnotatorNotes T656	 ID=357 REPORT:Report_923.txt TYPE:CPIS START:270 END:365 REPORT:Report_923.txt TYPE:PNA START:270 END:365
+#358	AnnotatorNotes T657	 ID=358 REPORT:Report_612.txt TYPE:CPIS START:157 END:232 REPORT:Report_612.txt TYPE:PNA START:157 END:232
+#359	AnnotatorNotes T658	 ID=359 REPORT:Report_BAL_NEG_159.txt TYPE:CPIS START:320 END:344 REPORT:Report_BAL_NEG_159.txt TYPE:PNA START:320 END:344
+#360	AnnotatorNotes T659	 ID=360 REPORT:Report_500.txt TYPE:CPIS START:234 END:286
+#361	AnnotatorNotes T660	 ID=361 REPORT:Report_568.txt TYPE:CPIS START:176 END:252 REPORT:Report_568.txt TYPE:PNA START:176 END:252
+#362	AnnotatorNotes T661	 ID=362 REPORT:Report_BAL_NEG_150.txt TYPE:CPIS START:154 END:234 REPORT:Report_BAL_NEG_150.txt TYPE:PNA START:154 END:234
+#363	AnnotatorNotes T662	 ID=363 REPORT:Report_BAL_NEG_406.txt TYPE:CPIS START:538 END:645 REPORT:Report_BAL_NEG_406.txt TYPE:PNA START:538 END:645 REPORT:Report_BAL_NEG_99.txt TYPE:CPIS START:538 END:645
+#364	AnnotatorNotes T663	 ID=364 REPORT:Report_BAL_NEG_553.txt TYPE:CPIS START:73 END:156 REPORT:Report_BAL_NEG_553.txt TYPE:PNA START:73 END:156
+#365	AnnotatorNotes T664	 ID=365 REPORT:Report_827.txt TYPE:CPIS START:297 END:390 REPORT:Report_827.txt TYPE:PNA START:297 END:390
+#366	AnnotatorNotes T665	 ID=366 REPORT:Report_BAL_NEG_25.txt TYPE:CPIS START:315 END:420 REPORT:Report_BAL_NEG_25.txt TYPE:PNA START:315 END:420
+#367	AnnotatorNotes T666	 ID=367 REPORT:Report_533.txt TYPE:CPIS START:254 END:349 REPORT:Report_533.txt TYPE:PNA START:254 END:349
+#368	AnnotatorNotes T667	 ID=368 REPORT:Report_428.txt TYPE:CPIS START:227 END:318 REPORT:Report_428.txt TYPE:PNA START:227 END:318 REPORT:Report_507.txt TYPE:CPIS START:231 END:322 REPORT:Report_507.txt TYPE:PNA START:231 END:322 REPORT:Report_639.txt TYPE:CPIS START:72 END:163 REPORT:Report_639.txt TYPE:PNA START:72 END:163 REPORT:Report_669.txt TYPE:CPIS START:227 END:319 REPORT:Report_669.txt TYPE:PNA START:227 END:319 REPORT:Report_71.txt TYPE:CPIS START:315 END:407 REPORT:Report_71.txt TYPE:PNA START:315 END:407 REPORT:Report_853.txt TYPE:CPIS START:69 END:160 REPORT:Report_853.txt TYPE:PNA START:69 END:160 REPORT:Report_882.txt TYPE:CPIS START:251 END:342 REPORT:Report_882.txt TYPE:PNA START:251 END:342 REPORT:Report_945.txt TYPE:CPIS START:163 END:253 REPORT:Report_945.txt TYPE:PNA START:163 END:253 REPORT:Report_951.txt TYPE:CPIS START:181 END:272 REPORT:Report_951.txt TYPE:PNA START:181 END:272 REPORT:Report_970.txt TYPE:CPIS START:88 END:179 REPORT:Report_970.txt TYPE:PNA START:88 END:179 REPORT:Report_BAL_NEG_157.txt TYPE:CPIS START:205 END:297 REPORT:Report_BAL_NEG_157.txt TYPE:PNA START:205 END:297 REPORT:Report_BAL_NEG_243.txt TYPE:CPIS START:157 END:249 REPORT:Report_BAL_NEG_243.txt TYPE:PNA START:157 END:249 REPORT:Report_BAL_NEG_244.txt TYPE:CPIS START:227 END:318 REPORT:Report_BAL_NEG_244.txt TYPE:PNA START:227 END:318 REPORT:Report_BAL_NEG_245.txt TYPE:CPIS START:404 END:497 REPORT:Report_BAL_NEG_245.txt TYPE:PNA START:404 END:497 REPORT:Report_BAL_NEG_345.txt TYPE:CPIS START:227 END:319 REPORT:Report_BAL_NEG_345.txt TYPE:PNA START:227 END:319 REPORT:Report_BAL_NEG_590.txt TYPE:CPIS START:170 END:261 REPORT:Report_BAL_NEG_590.txt TYPE:PNA START:170 END:261 REPORT:Report_BAL_NEG_596.txt TYPE:CPIS START:72 END:163 REPORT:Report_BAL_NEG_596.txt TYPE:PNA START:72 END:163
+#369	AnnotatorNotes T668	 ID=369 REPORT:Report_BAL_NEG_220.txt TYPE:CPIS START:93 END:179 REPORT:Report_BAL_NEG_220.txt TYPE:PNA START:93 END:179
+#370	AnnotatorNotes T669	 ID=370 REPORT:Report_BAL_NEG_195.txt TYPE:CPIS START:300 END:384 REPORT:Report_BAL_NEG_195.txt TYPE:PNA START:300 END:384 REPORT:Report_BAL_NEG_600.txt TYPE:CPIS START:194 END:265
+#371	AnnotatorNotes T670	 ID=371 REPORT:Report_57.txt TYPE:CPIS START:249 END:335 REPORT:Report_57.txt TYPE:PNA START:249 END:335
+#372	AnnotatorNotes T671	 ID=372 REPORT:Report_BAL_NEG_498.txt TYPE:CPIS START:227 END:279
+#373	AnnotatorNotes T672	 ID=373 REPORT:Report_BAL_NEG_439.txt TYPE:CPIS START:272 END:315
+#374	AnnotatorNotes T673	 ID=374 REPORT:Report_752.txt TYPE:CPIS START:218 END:419 REPORT:Report_752.txt TYPE:PNA START:218 END:419
+#375	AnnotatorNotes T674	 ID=375 REPORT:Report_BAL_NEG_217.txt TYPE:CPIS START:255 END:552 REPORT:Report_BAL_NEG_217.txt TYPE:PNA START:255 END:552
+#376	AnnotatorNotes T675	 ID=376 REPORT:Report_BAL_NEG_87.txt TYPE:CPIS START:223 END:307 REPORT:Report_BAL_NEG_87.txt TYPE:PNA START:223 END:307
+#377	AnnotatorNotes T676	 ID=377 REPORT:Report_BAL_NEG_116.txt TYPE:CPIS START:192 END:310 REPORT:Report_BAL_NEG_116.txt TYPE:PNA START:192 END:310
+#378	AnnotatorNotes T677	 ID=378 REPORT:Report_992.txt TYPE:CPIS START:181 END:312 REPORT:Report_992.txt TYPE:PNA START:181 END:312
+#379	AnnotatorNotes T678	 ID=379 REPORT:Report_807.txt TYPE:CPIS START:240 END:299 REPORT:Report_807.txt TYPE:PNA START:240 END:299
+#380	AnnotatorNotes T679	 ID=380 REPORT:Report_630.txt TYPE:CPIS START:463 END:570
+#382	AnnotatorNotes T681	 ID=382 REPORT:Report_BAL_NEG_580.txt TYPE:CPIS START:199 END:282
+#383	AnnotatorNotes T682	 ID=383 REPORT:Report_412.txt TYPE:CPIS START:144 END:203 REPORT:Report_412.txt TYPE:PNA START:144 END:203
+#384	AnnotatorNotes T683	 ID=384 REPORT:Report_BAL_NEG_58.txt TYPE:CPIS START:269 END:334 REPORT:Report_BAL_NEG_58.txt TYPE:PNA START:269 END:334
+#385	AnnotatorNotes T684	 ID=385 REPORT:Report_504.txt TYPE:CPIS START:167 END:238
+#386	AnnotatorNotes T685	 ID=386 REPORT:Report_BAL_NEG_196.txt TYPE:CPIS START:153 END:220 REPORT:Report_BAL_NEG_196.txt TYPE:PNA START:153 END:220
+#387	AnnotatorNotes T686	 ID=387 REPORT:Report_BAL_NEG_420.txt TYPE:CPIS START:169 END:254 REPORT:Report_BAL_NEG_420.txt TYPE:PNA START:169 END:254
+#388	AnnotatorNotes T687	 ID=388 REPORT:Report_508.txt TYPE:CPIS START:191 END:317 REPORT:Report_508.txt TYPE:PNA START:191 END:317
+#389	AnnotatorNotes T688	 ID=389 REPORT:Report_BAL_NEG_41.txt TYPE:CPIS START:342 END:489 REPORT:Report_BAL_NEG_41.txt TYPE:PNA START:342 END:489
+#390	AnnotatorNotes T689	 ID=390 REPORT:Report_BAL_NEG_208.txt TYPE:CPIS START:338 END:413 REPORT:Report_BAL_NEG_208.txt TYPE:PNA START:338 END:413
+#391	AnnotatorNotes T690	 ID=391 REPORT:Report_7.txt TYPE:CPIS START:270 END:338
+#392	AnnotatorNotes T691	 ID=392 REPORT:Report_901.txt TYPE:CPIS START:40 END:185 REPORT:Report_901.txt TYPE:PNA START:40 END:185
+#393	AnnotatorNotes T692	 ID=393 REPORT:Report_BAL_NEG_398.txt TYPE:CPIS START:218 END:311 REPORT:Report_BAL_NEG_398.txt TYPE:PNA START:218 END:311
+#394	AnnotatorNotes T693	 ID=394 REPORT:Report_769.txt TYPE:CPIS START:266 END:340 REPORT:Report_769.txt TYPE:PNA START:266 END:340
+#395	AnnotatorNotes T694	 ID=395 REPORT:Report_739.txt TYPE:CPIS START:290 END:344 REPORT:Report_739.txt TYPE:PNA START:290 END:344
+#396	AnnotatorNotes T695	 ID=396 REPORT:Report_549.txt TYPE:CPIS START:357 END:425 REPORT:Report_549.txt TYPE:PNA START:357 END:425
+#397	AnnotatorNotes T696	 ID=397 REPORT:Report_BAL_NEG_504.txt TYPE:CPIS START:155 END:183
+#398	AnnotatorNotes T697	 ID=398 REPORT:Report_446.txt TYPE:CPIS START:232 END:317
+#399	AnnotatorNotes T698	 ID=399 REPORT:Report_510.txt TYPE:CPIS START:231 END:392 REPORT:Report_510.txt TYPE:PNA START:231 END:392
+#400	AnnotatorNotes T699	 ID=400 REPORT:Report_543.txt TYPE:CPIS START:180 END:310
+R47	Location Arg1:T66 Arg2:T63	
+R46	State Arg1:T64 Arg2:T66	
+T76	Attr 256 268	pneumothorax
+R12	Location Arg1:T76 Arg2:T17	
+R72	Referenced-by Arg1:T76 Arg2:T16	
+T77	Dhead 270 282	allowing for
+R73	Diag Arg1:T77 Arg2:T20	
+T78	Diagnosis 270 301	allowing for lower lung volumes
+R16	State Arg1:T21 Arg2:T23	
+T102	Dhead 332 348	corresponding to
+R310	Diag Arg1:T102 Arg2:T25	
+T103	Diagnosis 332 375	corresponding to known pulmonary laceration
+T104	Loc 468 477	pulmonary
+T105	Val 461 467	patchy
+R311	Location Arg1:T33 Arg2:T104	
+R312	Value Arg1:T33 Arg2:T105	
+T106	Dhead 503 539	likely at least partially related to
+T459	Attr 549 556	volumes
+T460	Val 540 543	low
+T461	Loc 544 548	lung
+R388	Location Arg1:T459 Arg2:T461	
+R389	Value Arg1:T459 Arg2:T460	
+T462	Attr 561 572	atelectasis
+T463	Dhead 861 874	may represent
+T580	Attr 875 886	atelectasis
+T581	Conj 887 889	or
+T582	Conj 932 934	or
+T583	Attr 935 944	pneumonia
+T584	Attr 921 931	aspiration
+R392	Combine Arg1:T581 Arg2:T580	
+R394	Combine Arg1:T582 Arg2:T584	
+R395	Combine Arg1:T582 Arg2:T583	
+R396	Diag Arg1:T463 Arg2:T581	
+T585	Dhead 1023 1038	consistent with
+T586	Loc 1039 1043	lung
+T587	Attr 1044 1050	injury
+R398	Location Arg1:T587 Arg2:T586	
+R399	Diag Arg1:T585 Arg2:T587	
+T588	Conj 1184 1186	or
+R51	Value Arg1:T73 Arg2:T71	
+T589	Dhead 1119 1129	suggesting
+R52	Combine Arg1:T588 Arg2:T74	
+R53	Combine Arg1:T588 Arg2:T75	
+T590	Diagnosis 1119 1200	suggesting worsening pleural effusion and associated atelectasis or consolidation
+T591	Dhead 1282 1299	likely reflecting
+T592	Attr 1300 1311	atelectasis
+R402	Diag Arg1:T591 Arg2:T592	
+T593	Val 1332 1341	confluent
+R404	Value Arg1:T86 Arg2:T593	
+R65	Location Arg1:T90 Arg2:T92	
+T594	Dhead 1710 1718	could be
+T595	Attr 1719 1730	atelectasis
+T596	Conj 1731 1733	or
+T597	Attr 1746 1751	edema
+T598	Val 1734 1745	reexpansion
+R405	Value Arg1:T597 Arg2:T598	
+R406	Combine Arg1:T596 Arg2:T595	
+R407	Combine Arg1:T596 Arg2:T597	
+R408	Diag Arg1:T594 Arg2:T596	
+T599	Dhead 1908 1919	either from
+T700	Loc 1920 1929	pulmonary
+T701	Attr 1930 1935	edema
+T702	Attr 1937 1946	infection
+T703	Loc 1948 1956	alveolar
+T704	Attr 1957 1963	damage
+R409	Location Arg1:T701 Arg2:T700	
+R410	Location Arg1:T704 Arg2:T703	
+R411	Diag Arg1:T599 Arg2:T701	
+R412	Diag Arg1:T599 Arg2:T702	
+R413	Diag Arg1:T599 Arg2:T704	
+R81	Location Arg1:T121 Arg2:T118	
+T705	Dhead 2110 2126	likely represent
+T706	Attr 2127 2138	atelectasis
+R414	Diag Arg1:T705 Arg2:T706	
+R92	Location Arg1:T136 Arg2:T133	
+T707	Dhead 2254 2273	possibly related to
+T708	Loc 2274 2283	pulmonary
+T709	Val 2293 2303	underlying
+T710	Conj 2290 2292	or
+T711	Conj 2314 2316	or
+T712	Attr 2284 2289	edema
+T713	Attr 2304 2313	contusion
+T714	Attr 2317 2326	pneumonia
+R416	Combine Arg1:T711 Arg2:T713	
+R417	Value Arg1:T713 Arg2:T709	
+R418	Combine Arg1:T711 Arg2:T714	
+R419	Combine Arg1:T710 Arg2:T712	
+R421	Location Arg1:T712 Arg2:T708	
+R121	Location Arg1:T176 Arg2:T174	
+T715	Val 3057 3066	confluent
+T716	Conj 3111 3113	or
+T717	Conj 3253 3255	or
+T718	Dhead 3210 3223	demonstrating
+R425	Referenced-by Arg1:T718 Arg2:T204	
+R426	Combine Arg1:T717 Arg2:T206	
+R427	Combine Arg1:T717 Arg2:T207	
+R428	Diag Arg1:T718 Arg2:T717	
+T719	Diagnosis 3204 3265	again demonstrating right lower lobe atelectasis or contusion
+T720	Dhead 3303 3318	consistent with
+T721	Val 3319 3326	diffuse
+T722	Loc 3327 3331	lung
+T723	Attr 3332 3338	injury
+R429	Location Arg1:T723 Arg2:T722	
+R430	Value Arg1:T723 Arg2:T721	
+R431	Diag Arg1:T720 Arg2:T723	
+T724	Dhead 3929 3937	could be
+T725	Conj 3970 3972	or
+T726	Attr 3945 3956	atelectasis
+T727	Attr 3958 3968	aspiration
+T728	Attr 3973 3982	pneumonia
+R432	Combine Arg1:T725 Arg2:T727	
+R433	Combine Arg1:T725 Arg2:T728	
+R434	Combine Arg1:T725 Arg2:T726	
+R435	Diag Arg1:T724 Arg2:T725	
+T729	Dhead 4315 4321	likely
+T730	Conj 4328 4330	or
+T731	Loc 4331 4339	alveolar
+T732	Attr 4340 4346	damage
+T733	Attr 4322 4327	edema
+R436	Location Arg1:T732 Arg2:T731	
+R437	Combine Arg1:T730 Arg2:T733	
+R438	Combine Arg1:T730 Arg2:T732	
+R439	Diag Arg1:T729 Arg2:T730	
+T734	Dhead 4423 4429	likely
+T735	Attr 4430 4441	atelectasis
+R440	Diag Arg1:T734 Arg2:T735	
+T736	Dhead 4536 4553	may be related to
+T737	Val 4554 4564	underlying
+T738	Loc 4565 4574	pulmonary
+T739	Attr 4575 4580	edema
+T740	Conj 4581 4583	or
+T741	Attr 4584 4604	pneumonia/contusions
+R441	Combine Arg1:T740 Arg2:T739	
+R442	Location Arg1:T739 Arg2:T738	
+R443	Value Arg1:T739 Arg2:T737	
+R444	Combine Arg1:T740 Arg2:T741	
+R445	Diag Arg1:T736 Arg2:T740	
+T742	Loc 4658 4667	bibasilar
+R208	Location Arg1:T300 Arg2:T742	
+R446	State Arg1:T298 Arg2:T300	
+T743	Dhead 4678 4702	which may be artifact of
+T744	Attr 4712 4719	volumes
+T745	Loc 4707 4711	lung
+T746	Val 4703 4706	low
+T747	Dhead 4723 4732	represent
+T748	Conj 4720 4722	or
+R447	Location Arg1:T744 Arg2:T745	
+R448	Value Arg1:T744 Arg2:T746	
+T749	Val 4733 4737	mild
+T750	Loc 4738 4747	pulmonary
+T751	Attr 4748 4753	edema
+R450	Location Arg1:T751 Arg2:T750	
+R451	Value Arg1:T751 Arg2:T749	
+R452	Diag Arg1:T747 Arg2:T751	
+R453	Value Arg1:T302 Arg2:T303	
+T752	Dhead 4885 4897	representing
+T753	Loc 4898 4906	alveolar
+T754	Conj 4914 4920	and/or
+T755	Attr 4907 4913	damage
+T756	Attr 4921 4926	edema
+R454	Location Arg1:T755 Arg2:T753	
+R455	Combine Arg1:T754 Arg2:T755	
+R456	Combine Arg1:T754 Arg2:T756	
+R457	Diag Arg1:T752 Arg2:T754	
+T757	Dhead 4986 5005	likely representing
+T758	Loc 5006 5011	basal
+T759	Attr 5012 5023	volume loss
+R458	Location Arg1:T759 Arg2:T758	
+R459	Diag Arg1:T757 Arg2:T759	
+T760	Dhead 5060 5069	represent
+T761	Conj 5082 5088	versus
+T762	Attr 5070 5081	atelectasis
+T763	Attr 5089 5098	pneumonia
+R460	Combine Arg1:T761 Arg2:T762	
+R461	Combine Arg1:T761 Arg2:T763	
+R462	Diag Arg1:T760 Arg2:T761	
+T764	Dhead 5208 5223	consistent with
+T765	Loc 5224 5233	pulmonary
+T766	Attr 5234 5249	edema/pneumonia
+R463	Location Arg1:T766 Arg2:T765	
+R464	Diag Arg1:T764 Arg2:T766	
+T767	Dhead 5389 5395	impart
+T768	Loc 5396 5411	part lower lobe
+T769	Val 5412 5423	compressive
+T770	Attr 5424 5435	atelectasis
+R465	Value Arg1:T770 Arg2:T769	
+R466	Location Arg1:T770 Arg2:T768	
+R467	Diag Arg1:T767 Arg2:T770	
+T771	Dhead 5560 5573	demonstrating
+T772	Dhead 5601 5616	consistent with
+T773	Conj 5628 5630	or
+T774	Attr 5617 5627	aspiration
+T775	Attr 5637 5646	pneumonia
+R243	Combine Arg1:T773 Arg2:T774	
+R246	Combine Arg1:T773 Arg2:T775	
+R468	Diag Arg1:T772 Arg2:T773	
+R469	Diag Arg1:T771 Arg2:T362	
+R470	Referenced-by Arg1:T771 Arg2:T357	
+T776	Dhead 5688 5701	demonstrating
+R475	Referenced-by Arg1:T776 Arg2:T360	
+T777	Diagnosis 5682 5780	again demonstrating low lung volumes, bilateral lower lobe atelectasis, and right pleural effusion
+T778	Dhead 5832 5850	hich may represent
+T779	Conj 5863 5865	or
+T780	Attr 5851 5862	atelectasis
+T781	Attr 5866 5875	pneumonia
+R476	Combine Arg1:T779 Arg2:T780	
+R477	Combine Arg1:T779 Arg2:T781	
+R478	Diag Arg1:T778 Arg2:T779	
+R253	Location Arg1:T378 Arg2:T375	
+T782	Val 6041 6052	nonspecific
+R479	Value Arg1:T384 Arg2:T782	
+R480	State Arg1:T389 Arg2:T385	
+T783	Dhead 6186 6196	indicating
+T784	Conj 6207 6209	or
+T785	Attr 6210 6220	aspiration
+T786	Attr 6197 6206	pneumonia
+R481	Combine Arg1:T784 Arg2:T786	
+R482	Combine Arg1:T784 Arg2:T785	
+R483	Diag Arg1:T783 Arg2:T784	
+T787	Val 6386 6395	obscuring
+R484	Value Arg1:T405 Arg2:T787	
+T789	Dhead 6427 6449	Findings may represent
+T790	Conj 6472 6474	or
+T791	Attr 6450 6461	atelectasis
+T792	Attr 6463 6471	effusion
+T793	Attr 6475 6484	infection
+T794	Val 6695 6704	rightward
+R486	Value Arg1:T422 Arg2:T794	
+T795	Dhead 6656 6662	likely
+T796	Loc 6665 6677	left pleural
+T797	Attr 6678 6686	effusion
+R487	Location Arg1:T797 Arg2:T796	
+R488	Diag Arg1:T795 Arg2:T797	
+T798	Dhead 6730 6749	likely secondary to
+T799	Attr 6765 6776	atelectasis
+T800	Attr 6791 6799	effusion
+T801	Attr 6804 6820	patient rotation
+T802	Loc 6778 6790	left pleural
+R489	Location Arg1:T800 Arg2:T802	
+T803	Dhead 6859 6874	could represent
+T804	Attr 6875 6885	aspiration
+T805	Attr 6893 6904	atelectasis
+T806	Conj 6886 6892	versus
+R493	Combine Arg1:T806 Arg2:T804	
+R494	Combine Arg1:T806 Arg2:T805	
+R495	Diag Arg1:T803 Arg2:T806	
+T807	Conj 7266 7272	and/or
+T808	Dhead 7215 7229	Redemonstrated
+T809	Diagnosis 7215 7320	Redemonstrated is bilateral lower lobe atelectasis and/or aspiration pneumonitis, right greater than left
+R496	Combine Arg1:T807 Arg2:T456	
+R497	Combine Arg1:T807 Arg2:T457	
+R498	Diag Arg1:T808 Arg2:T807	
+T810	Dhead 7460 7475	consistent with
+T811	Attr 7486 7494	collapse
+T812	Val 7476 7485	worsening
+R499	Value Arg1:T811 Arg2:T812	
+R500	Diag Arg1:T810 Arg2:T811	
+T813	Cos 7503 7511	Resolved
+R315	State Arg1:T813 Arg2:T470	
+R501	Value Arg1:T471 Arg2:T472	
+R502	Location Arg1:T470 Arg2:T468	
+T814	Dhead 7901 7922	which could represent
+T815	Attr 7923 7934	atelectasis
+T816	Attr 7936 7946	aspiration
+T817	Attr 7951 7960	pneumonia
+T818	Conj 7948 7950	or
+R505	Combine Arg1:T818 Arg2:T816	
+R506	Combine Arg1:T818 Arg2:T815	
+R507	Combine Arg1:T818 Arg2:T817	
+R508	Diag Arg1:T814 Arg2:T818	
+T819	Dhead 8143 8147	from
+T820	Attr 8148 8157	infection
+T821	Conj 8158 8160	or
+T822	Attr 8161 8166	edema
+R509	Combine Arg1:T821 Arg2:T820	
+R510	Combine Arg1:T821 Arg2:T822	
+R511	Diag Arg1:T819 Arg2:T821	
+R347	State Arg1:T522 Arg2:T521	
+R512	Location Arg1:T521 Arg2:T519	
+R359	Location Arg1:T576 Arg2:T573	
+R360	Location Arg1:T576 Arg2:T535	
+R364	Location Arg1:T539 Arg2:T536	
+T534	Dhead 8527 8537	indicating
+T823	Loc 8538 8555	right middle lobe
+T824	Attr 8556 8567	atelectasis
+R513	Diag Arg1:T534 Arg2:T824	
+R514	Location Arg1:T824 Arg2:T823	
+T825	Dhead 8604 8610	likely
+T826	Attr 8611 8622	atelectasis
+R515	Diag Arg1:T825 Arg2:T826	
+T827	Conj 8677 8679	or
+T828	Attr 8680 8689	pneumonia
+T829	Attr 8665 8676	atelectasis
+T830	Dhead 8652 8664	representing
+R516	Combine Arg1:T827 Arg2:T829	
+R517	Combine Arg1:T827 Arg2:T828	
+R518	Diag Arg1:T830 Arg2:T827	
+T831	Cos 8691 8697	Stable
+R519	State Arg1:T831 Arg2:T551	
+R378	Location Arg1:T561 Arg2:T558	
+T833	Dhead 9017 9030	may represent
+T834	Attr 9031 9036	edema
+T835	Dhead 9056 9062	may be
+T836	Val 9075 9078	low
+T837	Loc 9079 9083	lung
+T838	Attr 9084 9091	volumes
+R521	Location Arg1:T838 Arg2:T837	
+R522	Value Arg1:T838 Arg2:T836	
+R523	Diag Arg1:T835 Arg2:T838	
+R525	Diag Arg1:T833 Arg2:T834	
+T839	Conj 67 70	and
+R5	Combine Arg1:T839 Arg2:T5	
+R6	Combine Arg1:T839 Arg2:T7	
+R54	State Arg1:T8 Arg2:T839	
+R55	State Arg1:T8 Arg2:T9	
+T840	Conj 194 203	including
+R13	Combine Arg1:T840 Arg2:T13	
+R14	Combine Arg1:T840 Arg2:T15	
+R74	State Arg1:T10 Arg2:T840	
+R20	State Arg1:T29 Arg2:T28	
+T841	Conj 557 560	and
+R390	Combine Arg1:T841 Arg2:T459	
+R391	Combine Arg1:T841 Arg2:T462	
+R529	Diag Arg1:T106 Arg2:T841	
+R30	State Arg1:T39 Arg2:T42	
+R37	Combine Arg1:T581 Arg2:T582	
+T842	Val 890 920	in the proper clinical setting
+R393	Combine Arg1:T582 Arg2:T842	
+T843	Val 1161 1171	associated
+R397	Combine Arg1:T588 Arg2:T843	
+T844	Conj 1157 1160	and
+R400	Combine Arg1:T844 Arg2:T73	
+R401	Combine Arg1:T844 Arg2:T588	
+R530	Diag Arg1:T589 Arg2:T844	
+T845	Conj 2168 2172	with
+R88	Combine Arg1:T845 Arg2:T130	
+R415	Combine Arg1:T845 Arg2:T132	
+R531	State Arg1:T128 Arg2:T845	
+R420	Combine Arg1:T710 Arg2:T711	
+T846	Conj 2388 2391	and
+R97	Combine Arg1:T846 Arg2:T143	
+R98	Combine Arg1:T846 Arg2:T145	
+R423	State Arg1:T141 Arg2:T846	
+R106	Location Arg1:T156 Arg2:T157	
+T847	Conj 2619 2622	and
+R111	Combine Arg1:T847 Arg2:T159	
+R112	Combine Arg1:T847 Arg2:T162	
+R532	State Arg1:T163 Arg2:T847	
+R424	Value Arg1:T191 Arg2:T715	
+R134	Combine Arg1:T716 Arg2:T197	
+R135	Combine Arg1:T716 Arg2:T198	
+R136	Combine Arg1:T716 Arg2:T196	
+R137	Combine Arg1:T716 Arg2:T195	
+R138	State Arg1:T199 Arg2:T716	
+R139	Combine Arg1:T717 Arg2:T205	
+T848	Conj 3763 3766	and
+R142	Combine Arg1:T848 Arg2:T237	
+R143	Combine Arg1:T848 Arg2:T240	
+R166	State Arg1:T234 Arg2:T848	
+T849	Conj 3823 3826	and
+R167	Combine Arg1:T849 Arg2:T242	
+R170	Combine Arg1:T849 Arg2:T244	
+R171	State Arg1:T245 Arg2:T849	
+T850	Conj 4101 4104	and
+R183	Combine Arg1:T850 Arg2:T261	
+R184	Combine Arg1:T850 Arg2:T263	
+R533	Combine Arg1:T850 Arg2:T264	
+T851	Conj 4250 4253	and
+R190	Combine Arg1:T851 Arg2:T270	
+R191	Combine Arg1:T851 Arg2:T273	
+R534	State Arg1:T268 Arg2:T851	
+R449	Diag Arg1:T743 Arg2:T744	
+T852	Conj 5139 5143	with
+R225	Combine Arg1:T852 Arg2:T328	
+R226	Combine Arg1:T852 Arg2:T330	
+R535	State Arg1:T331 Arg2:T852	
+T853	Conj 5458 5461	and
+R238	Combine Arg1:T853 Arg2:T349	
+R239	Combine Arg1:T853 Arg2:T351	
+R536	State Arg1:T347 Arg2:T853	
+T854	Conj 5754 5757	and
+R471	Combine Arg1:T854 Arg2:T368	
+R472	Combine Arg1:T854 Arg2:T370	
+R473	Combine Arg1:T854 Arg2:T366	
+R474	Diag Arg1:T776 Arg2:T854	
+T855	Val 6072 6081	confluent
+R537	Value Arg1:T387 Arg2:T855	
+R274	Location Arg1:T787 Arg2:T406	
+R485	Combine Arg1:T790 Arg2:T792	
+R538	Combine Arg1:T790 Arg2:T793	
+R539	Combine Arg1:T790 Arg2:T791	
+R540	Diag Arg1:T789 Arg2:T790	
+R280	State Arg1:T414 Arg2:T413	
+T788	Conj 6800 6803	and
+R490	Combine Arg1:T788 Arg2:T800	
+R491	Combine Arg1:T788 Arg2:T801	
+R492	Combine Arg1:T788 Arg2:T799	
+T856	Val 6750 6764	combination of
+R541	Combine Arg1:T788 Arg2:T856	
+R542	Diag Arg1:T798 Arg2:T788	
+T857	Conj 6954 6958	with
+T858	Val 6959 6960	a
+R289	Value Arg1:T434 Arg2:T858	
+R543	Combine Arg1:T857 Arg2:T431	
+R544	Combine Arg1:T857 Arg2:T434	
+R545	State Arg1:T429 Arg2:T857	
+T859	Conj 7047 7050	and
+R297	Combine Arg1:T859 Arg2:T441	
+R298	Combine Arg1:T859 Arg2:T443	
+R546	State Arg1:T439 Arg2:T859	
+R503	State Arg1:T578 Arg2:T579	
+T860	Conj 8777 8780	and
+R373	Combine Arg1:T860 Arg2:T555	
+R376	Combine Arg1:T860 Arg2:T557	
+R377	State Arg1:T553 Arg2:T860	
+R504	Combine Arg1:T860 Arg2:T552	
+T832	Conj 715 719	with
+R31	Combine Arg1:T832 Arg2:T49	
+R32	Combine Arg1:T832 Arg2:T51	
+R36	State Arg1:T46 Arg2:T832	
+R520	Combine Arg1:T832 Arg2:T45	
+R38	Location Arg1:T54 Arg2:T52	
+T861	Val 784 798	accentuated by
+T862	Conj 1552 1555	and
+R70	Combine Arg1:T862 Arg2:T98	
+R71	Combine Arg1:T862 Arg2:T101	
+R403	State Arg1:T96 Arg2:T862	
+R39	Value Arg1:T54 Arg2:T861	
+R524	Extend Arg1:T861 Arg2:T56	
+R422	Diag Arg1:T707 Arg2:T710	
+R306	Combine Arg1:T807 Arg2:T455	
+R307	Combine Arg1:T807 Arg2:T458	
+T863	Conj 6299 6303	with
+R268	Combine Arg1:T863 Arg2:T400	
+R269	Combine Arg1:T863 Arg2:T402	
