@@ -1,0 +1,639 @@
+Interval	right	lower	lobe	opacification	,	which	may	represent	volume	loss	versus	pneumonia	.
+B-Val	B-Loc	I-Loc	I-Loc	B-Attr	O	O	O	O	B-Attr	I-Attr	O	B-Attr	O
+O	I-Val	B-Loc	B-Loc	B-Attr	O	O	O	O	O	O	O	B-Attr	O
+Bilateral	lower	lobe	atelectasis	has	worsened	.
+B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	O
+B-Loc	B-Loc	B-Loc	B-Attr	O	B-Cos	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	diffuse	lung	edema	or	injury	.
+O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	B-Loc	O	O	B-Cos	O	O	O	B-Val	B-Loc	B-Attr	O	O	O
+No	substantial	radiographic	change	in	appearance	of	the	low	lung	volumes	with	right	middle	and	lower	lobe	collapse	.
+B-Cos	I-Cos	I-Cos	I-Cos	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Loc	I-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O
+O	O	O	O	O	O	O	O	B-Val	B-Loc	O	O	I-Val	B-Loc	O	B-Loc	B-Loc	B-Attr	O
+Stable	left-sided	pleural	effusion	bibasilar	atelectasis	is	present	.
+B-Cos	B-Loc	I-Loc	B-Attr	B-Loc	B-Attr	O	O	O
+B-Cos	B-Loc	B-Loc	B-Attr	B-Loc	B-Attr	O	O	O
+Stable	left	lobe	atelectasis	is	present	.
+B-Cos	B-Loc	I-Loc	B-Attr	O	O	O
+B-Cos	I-Val	B-Loc	B-Attr	O	O	O
+Basilar	opacities	persist	,	likely	atelectasis	and/or	pleural	effusions	.
+B-Loc	B-Attr	B-Cos	O	O	B-Attr	O	B-Loc	B-Attr	O
+B-Loc	B-Attr	B-Cos	O	O	B-Attr	O	B-Loc	B-Attr	O
+Interval	worsening	of	right	lower	lobe	opacities	which	may	represent	atelectasis	or	infection	.	Left	lower	lobe	consolidation	persists	.
+B-Cos	I-Cos	O	B-Loc	I-Loc	I-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	O	B-Loc	I-Loc	I-Loc	B-Attr	B-Cos	O
+O	B-Cos	O	I-Val	B-Loc	B-Loc	B-Attr	O	O	O	B-Attr	O	O	O	I-Val	B-Loc	B-Loc	B-Attr	B-Cos	O
+Diffuse	lung	opacities	again	noted	,	consistent	with	pulmonary	edema/pneumonia	,	with	worsening	on	right	.
+B-Val	B-Loc	B-Attr	B-Ref	I-Ref	O	O	O	B-Loc	B-Attr	O	O	B-Cos	B-Loc	I-Loc	O
+B-Val	B-Loc	B-Attr	O	O	O	O	O	B-Loc	B-Attr	O	O	B-Cos	O	I-Val	O
+Lungs	:	Bibasilar	opacities	consistent	with	atelectasis	,	infiltrates	,	or	failure	unchanged
+B-Loc	O	B-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O	O	B-Attr	B-Cos
+B-Loc	O	B-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O	O	O	B-Cos
+Chest	is	otherwise	stable	.
+B-Loc	O	O	B-Cos	O
+B-Loc	O	O	B-Cos	O
+Lungs	:	Resolved	right	lower	lung	opacity	.	Lungs	are	clear	.
+B-Loc	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Loc	O	B-Val	O
+B-Loc	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	B-Loc	O	O	O
+Lungs	:	No	substantial	changes	.	Diffuse	lung	opacities	in	both	lungs	,	left	greater	than	the	right	.
+B-Loc	O	B-Cos	I-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	B-Loc	I-Loc	O	B-Val	I-Val	I-Val	I-Val	I-Val	O
+B-Loc	O	O	O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	O	I-Val	O	O	O	I-Val	O
+Diffuse	hazy	lung	opacities	persist	compatible	with	pulmonary	edema	.
+B-Val	I-Val	B-Loc	B-Attr	B-Cos	O	O	B-Loc	B-Attr	O
+B-Val	B-Val	B-Loc	B-Attr	B-Cos	O	O	B-Loc	B-Attr	O
+There	has	been	no	change	in	diffuse	lung	opacities	consistent	with	diffuse	lung	injury	.
+O	O	O	B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	B-Attr	O
+O	O	O	O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	O	O
+Unchanged	bibasilar	atelectasis	.
+B-Cos	B-Loc	B-Attr	O
+B-Cos	B-Loc	B-Attr	O
+Opacities	:	Patchy	,	confluent	bibasilar	opacities	have	improved	slightly
+B-Attr	O	B-Val	O	B-Val	B-Loc	B-Attr	O	B-Cos	I-Cos
+B-Attr	O	B-Val	O	B-Val	B-Loc	B-Attr	O	B-Cos	B-Cos
+Low	lung	volumes	.	Stable	perihilar	and	bibasilar	opacities	are	likely	an	artifact	of	low	lung	volumes	,	though	mild	pulmonary	edema	can	not	be	excluded	.
+B-Val	B-Loc	B-Attr	O	B-Cos	B-Loc	O	B-Loc	B-Attr	O	O	O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	B-Attr	O	O	O	O	O
+B-Val	B-Loc	O	O	B-Cos	B-Loc	O	B-Loc	B-Attr	O	O	O	O	O	B-Val	B-Loc	O	O	O	B-Val	B-Loc	B-Attr	O	O	O	O	O
+Improved	left	upper	lobe	consolidation	and	worsened	areas	of	consolidation	in	the	left	lower	lobe	,	right	upper	lobe	,	and	lower	right	lung	,	likely	pneumonia	or	alveolar	damage	.
+B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	O	O	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	B-Loc	I-Loc	I-Loc	O	O	B-Loc	I-Loc	I-Loc	O	O	B-Attr	O	B-Loc	B-Attr	O
+B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	B-Cos	O	O	B-Attr	O	O	I-Val	B-Loc	B-Loc	O	I-Val	B-Loc	B-Loc	O	O	B-Loc	I-Val	B-Loc	O	O	B-Attr	O	B-Loc	O	O
+Lungs	:	Increasing	right	lower	lobe	consolidation	.
+B-Loc	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O
+B-Loc	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O
+Lung	volumes	remain	low	with	patchy	bibasilar	atelectasis	and	mild	pulmonary	edema	.
+B-Loc	B-Attr	B-Cos	B-Val	O	B-Val	B-Loc	B-Attr	O	B-Val	B-Loc	B-Attr	O
+B-Loc	O	B-Cos	B-Val	O	B-Val	B-Loc	B-Attr	O	B-Val	B-Loc	B-Attr	O
+Lungs	:	Left	basilar	atelectasis	persists	.	No	new	focal	opacities	.
+B-Loc	O	B-Loc	I-Loc	B-Attr	B-Cos	O	B-Cos	I-Cos	B-Val	B-Attr	O
+B-Loc	O	I-Val	B-Loc	B-Attr	B-Cos	O	O	B-Cos	O	B-Attr	O
+There	are	diffuse	,	bilateral	opacities	that	are	unchanged	.
+O	O	B-Val	O	B-Loc	B-Attr	O	O	B-Cos	O
+O	O	B-Val	O	B-Loc	B-Attr	O	O	B-Cos	O
+Lungs	:	There	is	a	stable	patchy	bilateral	atelectasis	.
+B-Loc	O	O	O	O	B-Cos	B-Val	B-Loc	B-Attr	O
+B-Loc	O	O	O	O	B-Cos	B-Val	B-Loc	B-Attr	O
+The	lungs	show	worsening	patchy	bilateral	atelectasis	versus	lower	lung	volumes	.
+O	B-Loc	O	B-Cos	B-Val	B-Loc	B-Attr	O	B-Val	B-Loc	B-Attr	O
+O	B-Loc	O	B-Cos	B-Val	B-Loc	B-Attr	O	B-Loc	B-Loc	O	O
+No	change	in	diffuse	lung	opacities	consistent	with	diffuse	lung	injury	.
+O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	O	O
+Right	upper	lobe	atelectasis	has	decreased	.	Bibasilar	opacities	are	stable	,	likely	atelectasis	.
+B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	O	B-Loc	B-Attr	O	B-Cos	O	O	B-Attr	O
+I-Val	B-Loc	B-Loc	B-Attr	O	B-Cos	O	B-Loc	B-Attr	O	B-Cos	O	O	B-Attr	O
+Lungs	:	Increasing	right	lower	lobe	opacity	and	diminished	lung	volumes
+B-Loc	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	B-Loc	B-Attr
+B-Loc	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	B-Cos	B-Loc	O
+Bibasilar	opacities	persist	,	right	greater	than	left	,	concerning	for	pulmonary	edema	.
+B-Loc	B-Attr	B-Cos	O	B-Val	I-Val	I-Val	I-Val	O	O	O	B-Loc	B-Attr	O
+B-Loc	B-Attr	B-Cos	O	I-Val	O	O	I-Val	O	O	O	B-Loc	B-Attr	O
+There	is	continuing	obscuration	of	the	left	costophrenic	angle	,	likely	due	to	small	pleural	effusion	and	atelectasis	.
+O	O	B-Cos	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O
+O	O	B-Cos	B-Attr	O	O	I-Val	B-Loc	O	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O
+Stable	diffuse	lung	disease	,	representing	atelectasis	or	infection	.
+B-Cos	B-Val	B-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O
+B-Cos	B-Val	B-Loc	O	O	O	B-Attr	O	O	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	central	pulmonary	edema	,	lower	lobe	atelectasis	,	and	bilateral	pleural	effusions	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Loc	I-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O	O	B-Loc	I-Loc	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	B-Loc	B-Loc	B-Attr	O	B-Loc	B-Loc	B-Attr	O	O	B-Loc	B-Loc	B-Attr	O
+Right	lung	opacity	unchanged	.
+B-Loc	I-Loc	B-Attr	B-Cos	O
+I-Val	B-Loc	B-Attr	B-Cos	O
+Diffuse	hazy	lung	opacities	persist	compatible	with	pulmonary	edema	.
+O	O	O	O	O	O	O	O	O	O
+B-Val	B-Val	B-Loc	B-Attr	B-Cos	O	O	B-Loc	B-Attr	O
+Lungs	:	Unchanged	bilateral	proximal	opacities	concerning	for	pneumonia	or	edema	.
+B-Loc	O	B-Cos	B-Loc	I-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O
+B-Loc	O	B-Cos	B-Loc	B-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O
+Opacities	:	Mild	,	patchy	,	bibasilar	and	unchanged
+B-Attr	O	B-Val	O	B-Val	O	B-Loc	O	B-Cos
+B-Attr	O	B-Val	O	B-Val	O	B-Loc	O	B-Cos
+No	change	in	diffuse	lung	opacities	consistent	with	pulmonary	edema/pneumonia	.
+O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O
+No	change	in	bilateral	lower	lobe	atelectasis	and	bilateral	pleural	effusions	.
+B-Cos	I-Cos	O	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O
+O	O	O	B-Loc	B-Loc	B-Loc	B-Attr	O	B-Loc	B-Loc	B-Attr	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	partial	left	lower	lobe	atelectasis	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	O	I-Val	B-Loc	B-Loc	B-Attr	O
+There	is	new	patchy	left	lung	consolidation	,	which	could	be	from	aspiration	or	infection	.
+O	O	B-Cos	B-Val	B-Loc	I-Loc	B-Attr	O	O	O	O	O	B-Attr	O	B-Attr	O
+O	O	B-Cos	B-Val	I-Val	B-Loc	B-Attr	O	O	O	O	O	B-Attr	O	O	O
+Lungs	:	Slightly	improved	bilateral	diffuse	lung	opacities	.
+B-Loc	O	B-Cos	I-Cos	B-Loc	B-Val	B-Loc	B-Attr	O
+B-Loc	O	B-Cos	B-Cos	B-Loc	B-Val	B-Loc	B-Attr	O
+No	substantial	interval	change	patchy	bilateral	lung	opacities	.
+B-Cos	I-Cos	I-Cos	I-Cos	B-Val	B-Loc	I-Loc	B-Attr	O
+O	O	O	O	B-Val	B-Loc	B-Loc	B-Attr	O
+There	has	been	improved	aeration	with	decrease	in	patchy	atelectasis	.	No	new	focal	abnormalities	.
+O	O	O	B-Cos	B-Attr	O	B-Cos	O	B-Val	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Cos	B-Attr	O	O	O	B-Val	B-Attr	O	O	B-Cos	O	O	O
+Collapse/consolidation	within	knee	right	upper	lobe	.
+B-Attr	O	O	B-Loc	I-Loc	I-Loc	O
+B-Attr	O	B-Loc	I-Val	B-Loc	B-Loc	O
+Left	basilar	consolidation	persists	,	consistent	with	atelectasis	or	pneumonia	.
+B-Loc	I-Loc	B-Attr	B-Cos	O	O	O	B-Attr	O	B-Attr	O
+I-Val	B-Loc	B-Attr	B-Cos	O	O	O	B-Attr	O	B-Attr	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	central	lung	edema	,	basilar	atelectasis	or	pneumonia	,	and	right	upper	lobe	atelectasis	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Loc	I-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Attr	O	O	B-Loc	I-Loc	I-Loc	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	B-Loc	B-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Attr	O	O	I-Val	B-Loc	B-Loc	B-Attr	O
+There	has	been	continued	progression	of	diffuse	lung	injury	pattern	with	worsening	of	right	lower	lobe	opacification	.
+O	O	O	B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	I-Attr	O	B-Cos	O	B-Loc	I-Loc	I-Loc	B-Attr	O
+O	O	O	B-Cos	O	O	B-Val	B-Loc	O	O	O	B-Cos	O	I-Val	B-Loc	B-Loc	B-Attr	O
+There	is	minimal	patchy	left	basal	consolidation	,	likely	atelectasis	.
+O	O	B-Val	I-Val	B-Loc	I-Loc	B-Attr	O	O	B-Attr	O
+O	O	O	B-Val	I-Val	B-Loc	B-Attr	O	O	B-Attr	O
+Exam	is	otherwise	unchanged	,	with	bilateral	lower	lobe	opacities	,	and	diffuse	lung	disease	.
+B-Attr	O	O	B-Cos	O	O	B-Loc	I-Loc	I-Loc	B-Attr	O	O	B-Val	B-Loc	B-Attr	O
+O	O	O	B-Cos	O	O	B-Loc	B-Loc	B-Loc	B-Attr	O	O	B-Val	B-Loc	O	O
+There	has	been	interval	increase	in	right	diffuse	lung	opacity	,	worse	at	the	right	base	,	with	loss	of	visualization	of	the	right	diaphragm	,	possible	aspiration	or	infection	,	with	atelectasis	.
+O	O	O	B-Cos	I-Cos	O	B-Loc	B-Val	B-Loc	B-Attr	O	B-Val	B-Loc	I-Loc	I-Loc	I-Loc	O	O	B-Attr	I-Attr	I-Attr	O	O	B-Loc	I-Loc	O	O	B-Attr	O	B-Attr	O	O	B-Attr	O
+O	O	O	O	O	O	I-Val	B-Val	B-Loc	B-Attr	O	B-Cos	O	O	I-Val	O	O	O	O	O	O	O	O	I-Val	B-Loc	O	O	B-Attr	O	O	O	O	B-Attr	O
+Stable	bilateral	opacities	consistent	with	either	edema	or	contusions	persist	.	No	new	focal	abnormalities	.
+B-Cos	B-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	B-Cos	O	B-Cos	I-Cos	B-Val	B-Attr	O
+B-Cos	B-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	B-Cos	O	O	B-Cos	O	O	O
+Right	upper	lobe	dense	consolidation	with	air	bronchograms	and	bilateral	patch	densities	are	again	seen	with	low	lung	volume	.
+B-Loc	I-Loc	I-Loc	B-Val	B-Attr	O	B-Attr	I-Attr	O	B-Loc	B-Val	B-Attr	O	B-Ref	I-Ref	O	B-Val	B-Loc	B-Attr	O
+I-Val	B-Loc	B-Loc	O	B-Attr	O	O	O	O	B-Loc	O	O	O	O	O	O	B-Val	B-Loc	O	O
+No	change	in	diffuse	lung	opacities	consistent	with	diffuse	lung	injury	.
+O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	O	O
+Interval	decrease	in	lung	volumes	with	persistent	bibasilar	atelectasis	.
+B-Cos	I-Cos	O	B-Loc	B-Attr	O	B-Cos	B-Loc	B-Attr	O
+O	O	O	B-Loc	O	O	B-Cos	B-Loc	B-Attr	O
+Similar	appearance	of	diffuse	lung	opacities	representing	edema	versus	infection	.	Right	basilar	opacities	persist	likely	representing	pneumonia	.
+B-Ref	I-Ref	O	B-Val	B-Loc	B-Attr	O	B-Attr	O	B-Attr	O	B-Loc	I-Loc	B-Attr	B-Cos	O	O	B-Attr	O
+B-Cos	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O	O	O	I-Val	B-Loc	B-Attr	B-Cos	O	O	B-Attr	O
+Right	middle	lobe	opacity	is	unchanged	,	could	be	atelectasis	or	reexpansion	edema	.
+B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	O	O	O	B-Attr	O	B-Val	B-Attr	O
+I-Val	B-Loc	B-Loc	B-Attr	O	B-Cos	O	O	O	B-Attr	O	O	B-Attr	O
+No	new	focal	abnormalities	.
+B-Cos	I-Cos	B-Val	B-Attr	O
+O	B-Cos	O	O	O
+Increased	right	lower	lobe	opacity	is	present	,	suspicious	for	infection	.
+B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	O	O	O	O	B-Attr	O
+B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	O	O	O	O	O	O
+No	change	in	patchy	opacities	or	pleural	effusions	.
+B-Cos	I-Cos	O	B-Val	B-Attr	O	B-Loc	B-Attr	O
+O	O	O	B-Val	B-Attr	O	B-Loc	B-Attr	O
+No	change	in	mild	edema	and	patchy	bilateral	lower	lobe	collapse	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Val	B-Attr	O	B-Val	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Val	B-Attr	O	B-Val	B-Loc	B-Loc	B-Loc	B-Attr	O	O	B-Cos	O	O	O
+Patchy	bibasilar	opacities	likely	representing	atelectasis	,	aspiration	or	pneumonia	.
+B-Val	B-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O	B-Attr	O
+B-Val	B-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O	B-Attr	O
+No	substantial	interval	change	the	previously	noted	dense	opacity	in	the	left	hemithorax	.	Persistent	minimal	aeration	of	the	left	lung	.
+B-Cos	I-Cos	I-Cos	I-Cos	O	B-Ref	I-Ref	B-Val	B-Attr	O	O	B-Loc	I-Loc	O	B-Cos	B-Val	B-Attr	O	O	B-Loc	I-Loc	O
+O	O	O	O	O	B-Ref	O	O	B-Attr	O	O	I-Val	B-Loc	O	B-Cos	O	B-Attr	O	O	I-Val	B-Loc	O
+Diffuse	pulmonary	edema	,	as	before	.
+B-Val	B-Loc	B-Attr	O	B-Ref	I-Ref	O
+B-Val	B-Loc	B-Attr	O	O	O	O
+Lungs	:	There	is	been	no	significant	change	in	the	bilateral	basilar	opacities	..
+B-Loc	O	O	O	O	B-Cos	I-Cos	I-Cos	O	O	B-Loc	I-Loc	B-Attr	O
+B-Loc	O	O	O	O	O	O	O	O	O	B-Loc	B-Loc	B-Attr	O
+The	lungs	show	patchy	and	diffuse	lung	consolidation	without	substantial	interval	change	,	either	pneumonia	or	alveolar	damage	.
+O	B-Loc	O	B-Val	O	B-Val	B-Loc	B-Attr	B-Cos	I-Cos	I-Cos	I-Cos	O	O	B-Attr	O	B-Loc	B-Attr	O
+O	B-Loc	O	B-Val	O	B-Val	B-Loc	B-Attr	O	O	O	O	O	O	B-Attr	O	B-Loc	O	O
+Right	lower	lobe	opacity	has	improved	from	prior	examination	.
+B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	B-Ref	I-Ref	I-Ref	O
+I-Val	B-Loc	B-Loc	B-Attr	O	B-Cos	O	I-Ref	O	O
+No	change	in	the	left	lobe	collapse	and	left	pleural	effusion	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	O	B-Loc	I-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	O	I-Val	B-Loc	B-Attr	O	I-Val	B-Loc	B-Attr	O	O	B-Cos	O	O	O
+Improved	right	lung	opacities	and	stable	left	lung	opacities	,	consistent	with	edema	or	contusions	.
+B-Cos	B-Loc	I-Loc	B-Attr	O	B-Cos	B-Loc	I-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	O
+B-Cos	I-Val	B-Loc	B-Attr	O	B-Cos	I-Val	B-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	O
+Improved	lung	volumes	and	decreased	basilar	atelectasis	.
+B-Cos	B-Loc	B-Attr	O	B-Cos	B-Loc	B-Attr	O
+B-Cos	B-Loc	O	O	B-Cos	B-Loc	B-Attr	O
+No	change	in	edema	and	patchy	atelectasis	.
+B-Cos	I-Cos	O	B-Attr	O	B-Val	B-Attr	O
+O	O	O	B-Attr	O	B-Val	B-Attr	O
+There	is	continuing	obscuration	of	the	left	costophrenic	angle	,	likely	due	to	small	pleural	effusion	and	atelectasis	.	There	is	stable	mild	diffuse	prominence	of	interstitial	markings	,	likely	revisiting	mild	pulmonary	edema	.	There	is	stable	patchy	right	basilar	density	likely	atelectasis	.
+O	O	B-Cos	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O	O	O	B-Cos	B-Val	I-Val	I-Val	I-Val	B-Attr	I-Attr	O	O	B-Val	I-Val	B-Loc	B-Attr	O	O	O	B-Cos	B-Val	B-Loc	I-Loc	B-Attr	O	B-Attr	O
+O	O	B-Cos	B-Attr	O	O	I-Val	B-Loc	O	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O	O	O	B-Cos	B-Val	B-Val	O	O	B-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	O	O	B-Cos	B-Val	I-Val	B-Loc	O	O	B-Attr	O
+Right	basilar	atelectasis	.
+B-Loc	I-Loc	B-Attr	O
+I-Val	B-Loc	B-Attr	O
+There	is	new	obscuration	of	the	right	heart	border	as	well	as	the	right	hemidiaphragm	suggestive	of	right	lower	and	middle	lobe	atelectasis	.
+O	O	B-Cos	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	O	O	O	B-Loc	I-Loc	O	O	B-Loc	I-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O
+O	O	B-Cos	B-Attr	O	O	I-Val	B-Loc	O	O	O	O	O	I-Val	I-Loc	O	O	I-Val	B-Loc	O	B-Loc	B-Loc	B-Attr	O
+There	is	increased	linear	opacity	at	the	right	lung	base	representing	atelectasis	versus	pneumonia/aspiration	.	The	left	lung	base	shows	improved	aeration	.
+O	O	B-Cos	B-Val	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	B-Attr	O	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	B-Cos	B-Attr	O
+O	O	B-Cos	O	B-Attr	O	O	I-Val	B-Loc	O	O	B-Attr	O	B-Attr	O	O	I-Val	B-Loc	O	O	B-Cos	B-Attr	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	right	pleural	effusion	and	partial	right	lower	lobe	atelectasis	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Loc	I-Loc	B-Attr	O	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	I-Val	B-Loc	B-Attr	O	O	I-Val	B-Loc	B-Loc	B-Attr	O
+Left	lower	lobe	atelectasis	and	pleural	effusion	as	before	.
+B-Loc	I-Loc	I-Loc	B-Attr	O	B-Loc	B-Attr	B-Ref	I-Ref	O
+I-Val	B-Loc	B-Loc	B-Attr	O	B-Loc	B-Attr	O	O	O
+Persistent	diffuse	lung	disease	as	before	.
+B-Cos	B-Val	B-Loc	B-Attr	B-Ref	I-Ref	O
+B-Cos	B-Val	B-Loc	O	O	O	O
+Focal	opacity	the	right	lower	lobe	represents	atelectasis	versus	pneumonia	.
+B-Val	B-Attr	O	B-Loc	I-Loc	I-Loc	O	B-Attr	O	B-Attr	O
+O	B-Attr	O	I-Val	B-Loc	B-Loc	O	B-Attr	O	B-Attr	O
+Basilar	atelectasis	as	before	.
+B-Loc	B-Attr	B-Ref	I-Ref	O
+B-Loc	B-Attr	O	O	O
+Right	lower	lobe	atelectasis	is	present	.	Patchy	opacity	in	the	left	mid	and	lower	lung	field	represent	atelectasis	,	pneumonia	or	contusion	.
+B-Loc	I-Loc	I-Loc	B-Attr	O	O	O	B-Val	B-Attr	O	O	B-Loc	I-Loc	I-Loc	I-Loc	I-Loc	I-Loc	O	B-Attr	O	B-Attr	O	B-Attr	O
+I-Val	B-Loc	B-Loc	B-Attr	O	O	O	B-Val	B-Attr	O	O	I-Val	B-Loc	O	B-Loc	B-Loc	O	O	B-Attr	O	B-Attr	O	B-Attr	O
+No	change	in	diffuse	lung	opacities	consistent	with	diffuse	lung	injury	.	No	new	focal	abnormalities	.
+O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	O	O	O	B-Cos	O	O	O
+There	are	unchanged	appearing	bilateral	pulmonary	opacities	that	likely	represent	a	combination	of	atelectasis	,	fluid	and/or	hemorrhage	.
+O	O	B-Cos	O	B-Loc	I-Loc	B-Attr	O	O	O	B-Val	I-Val	I-Val	B-Attr	O	B-Attr	O	B-Attr	O
+O	O	B-Cos	O	B-Loc	B-Loc	B-Attr	O	O	O	O	O	O	B-Attr	O	O	O	B-Attr	O
+There	is	unchanged	diffuse	lung	opacity	consistent	with	pulmonary	edema	or	diffuse	infection	.	There	is	unchanged	bibasilar	atelectasis	as	well	as	possible	left	pleural	effusion	.
+O	O	B-Cos	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Val	B-Attr	O	O	O	B-Cos	B-Loc	B-Attr	O	O	O	B-Val	B-Loc	I-Loc	B-Attr	O
+O	O	B-Cos	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Val	O	O	O	O	B-Cos	B-Loc	B-Attr	O	O	O	O	I-Val	B-Loc	B-Attr	O
+Lungs	:	Patchy	bilateral	lung	opacities	are	have	worsened	compared	to	0/00/00	and	may	reflect	atelectasis	or	pneumonia	.
+B-Loc	O	B-Val	B-Loc	I-Loc	B-Attr	O	O	B-Cos	B-Ref	I-Ref	I-Ref	O	O	O	B-Attr	O	B-Attr	O
+B-Loc	O	B-Val	B-Loc	B-Loc	B-Attr	O	O	B-Cos	O	O	I-Ref	O	O	O	B-Attr	O	B-Attr	O
+Diffuse	bilateral	pulmonary	opacities	persist	.
+B-Val	B-Loc	I-Loc	B-Attr	B-Cos	O
+B-Val	B-Loc	B-Loc	B-Attr	B-Cos	O
+There	is	increased	opacity	of	the	lungs	bilaterally	which	likely	is	attributable	to	decreased	lung	volumes	.
+O	O	B-Cos	B-Attr	O	O	B-Loc	I-Loc	O	O	O	O	O	B-Val	B-Loc	B-Attr	O
+O	O	B-Cos	B-Attr	O	O	B-Loc	B-Loc	O	O	O	O	O	B-Cos	B-Loc	O	O
+Impression	:	Persistent	layering	left	pleural	effusion	with	left	base	atelectasis	.
+O	O	B-Cos	B-Val	B-Loc	I-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O
+O	O	B-Cos	B-Val	I-Val	B-Loc	B-Attr	O	I-Val	O	B-Attr	O
+Findings	likely	represent	progressive	infection	or	acute	lung	injury	.
+O	O	O	O	O	O	O	O	O	O
+O	O	O	O	O	O	O	B-Loc	O	O
+No	change	in	moderate	edema	and	patchy	atelectasis/pneumonia	.
+B-Cos	I-Cos	O	B-Val	B-Attr	O	B-Val	B-Attr	O
+O	O	O	B-Val	B-Attr	O	B-Val	B-Attr	O
+No	change	in	left	lower	lobe	atelectasis	and	effusion	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	I-Val	B-Loc	B-Loc	B-Attr	O	B-Attr	O	O	B-Cos	O	O	O
+Atelectasis	LLL	continues	.
+B-Attr	B-Loc	B-Cos	O
+B-Attr	B-Loc	B-Cos	O
+Lungs	:	Improved	right	upper	lobe	atelectasis	.	Persistent	left	lower	lobe	atelectasis	.
+B-Loc	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O
+B-Loc	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O
+Opacity	right	base	is	probably	atelectasis	but	to	fluid	could	also	be	present	.
+B-Attr	B-Loc	I-Loc	O	O	B-Attr	O	O	B-Attr	O	O	O	B-Val	O
+B-Attr	I-Val	O	O	O	B-Attr	O	O	O	O	O	O	O	O
+No	change	in	diffuse	lung	opacities	consistent	with	diffuse	lung	injury	,	bilateral	pleural	effusions	,	and	edema	of	the	subcutaneous	tissues	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O	O	B-Attr	O	O	B-Loc	I-Loc	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Val	B-Loc	O	O	B-Loc	B-Loc	B-Attr	O	O	B-Attr	O	O	B-Loc	B-Loc	O	O	B-Cos	O	O	O
+No	change	in	diffuse	lung	opacities	consistent	with	pulmonary	edema	.	No	new	focal	abnormalities	.	.
+B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	O	B-Cos	O	O	O	O
+Left	pleural/parenchymal	opacification	persists	.
+B-Loc	I-Loc	B-Attr	B-Cos	O
+I-Val	B-Loc	B-Attr	B-Cos	O
+No	change	in	diffuse	lung	opacities	consistent	with	pulmonary	edema/pneumonia	,	right	greater	than	left	,	allowing	for	differences	in	lung	volumes	and	patient	positioning	.
+B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Val	I-Val	I-Val	I-Val	O	O	O	O	O	B-Loc	B-Attr	O	B-Attr	I-Attr	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	I-Val	O	O	I-Val	O	O	O	O	O	B-Loc	O	O	O	O	O
+Bibasilar	atelectasis	and	small	bilateral	pleural	effusions	suggested	.
+B-Loc	B-Attr	O	B-Val	B-Loc	I-Loc	B-Attr	O	O
+B-Loc	B-Attr	O	B-Val	B-Loc	B-Loc	B-Attr	O	O
+Stable	retrocardiac	opacity	is	present	,	representing	atelectasis	versus	aspiration/infection	.
+B-Cos	B-Loc	B-Attr	O	O	O	O	B-Attr	O	B-Attr	O
+B-Cos	B-Loc	B-Attr	O	O	O	O	B-Attr	O	B-Attr	O
+As	before	,	there	are	diffuse	patchy	air	space	opacities	throughout	the	right	lung	which	are	slightly	increased	when	compared	with	the	study	from	earlier	today	.
+B-Ref	I-Ref	O	O	O	B-Val	I-Val	I-Val	I-Val	B-Attr	B-Loc	I-Loc	I-Loc	I-Loc	O	O	B-Cos	I-Cos	O	B-Ref	I-Ref	I-Ref	I-Ref	I-Ref	I-Ref	I-Ref	O
+O	O	O	O	O	B-Val	B-Val	O	O	B-Attr	B-Loc	O	I-Val	B-Loc	O	O	B-Cos	B-Cos	O	O	O	O	O	O	I-Ref	O	O
+No	change	in	diffuse	lung	opacities	.
+B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O
+O	O	O	B-Val	B-Loc	B-Attr	O
+No	definite	change	in	diffuse	right	greater	than	left	pulmonary	opacities	.
+B-Cos	I-Cos	I-Cos	O	B-Val	I-Val	I-Val	I-Val	I-Val	B-Loc	B-Attr	O
+O	O	O	O	B-Val	I-Val	O	O	I-Val	B-Loc	B-Attr	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	dense	consolidating	left	upper	lobe	pneumonia	or	atelectasis	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Val	I-Val	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	O	B-Val	I-Val	B-Loc	B-Loc	B-Attr	O	B-Attr	O
+Diffuse	lung	disease	has	increased	.
+B-Val	B-Loc	B-Attr	O	B-Cos	O
+B-Val	B-Loc	O	O	B-Cos	O
+Dense	left	basilar	atelectasis	persists	.
+B-Val	B-Loc	I-Loc	B-Attr	B-Cos	O
+O	I-Val	B-Loc	B-Attr	B-Cos	O
+There	is	persistent	bibasal	atelectasis	,	without	definite	pleural	effusions	.
+O	O	B-Cos	B-Loc	B-Attr	O	B-Val	I-Val	B-Loc	B-Attr	O
+O	O	B-Cos	B-Loc	B-Attr	O	O	O	B-Loc	B-Attr	O
+No	change	in	mild	edema	and	moderately	advanced	patchy	atelectasis/pneumonia	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Val	B-Attr	O	B-Val	I-Val	I-Val	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Val	B-Attr	O	O	O	B-Val	B-Attr	O	O	B-Cos	O	O	O
+There	are	bibasilar	opacities	that	are	unchanged	.
+O	O	B-Loc	B-Attr	O	O	B-Cos	O
+O	O	B-Loc	B-Attr	O	O	B-Cos	O
+There	is	slightly	increased	focality	to	opacity	on	left	,	possibly	positional	or	due	to	infection	.
+O	O	B-Cos	I-Cos	B-Val	O	B-Attr	B-Loc	I-Loc	O	O	B-Attr	O	O	O	B-Attr	O
+O	O	B-Cos	B-Cos	O	O	B-Attr	O	I-Val	O	O	O	O	O	O	O	O
+Redemonstrated	are	bilateral	lower	lobe	opacities	for	which	infection	is	possible	.
+B-Cos	O	B-Loc	I-Loc	I-Loc	B-Attr	O	O	B-Attr	O	B-Val	O
+O	O	B-Loc	B-Loc	B-Loc	B-Attr	O	O	O	O	O	O
+Persistently	low	lung	volumes	with	unchanged	scattered	atelectasis	.
+B-Cos	B-Val	B-Loc	B-Attr	O	B-Cos	B-Val	B-Attr	O
+B-Cos	B-Val	B-Loc	O	O	B-Cos	B-Val	B-Attr	O
+The	left	hemidiaphragm	is	again	obscured	likely	reflecting	a	combination	of	atelectasis	and	pleural	fluid	.
+O	B-Loc	I-Loc	O	B-Ref	B-Attr	O	O	B-Val	I-Val	I-Val	B-Attr	O	B-Loc	B-Attr	O
+O	I-Val	I-Loc	O	O	O	O	O	O	O	O	B-Attr	O	B-Loc	O	O
+Lungs	:	No	change	in	diffuse	lung	opacities	consistent	with	pulmonary	edema/pneumonia	.
+B-Loc	O	B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O
+B-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O
+No	definite	change	in	diffuse	lung	opacities	consistent	with	pulmonary	edema	,	allowing	for	differences	in	lung	volumes	and	patient	positioning	.
+B-Cos	I-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	O	O	O	O	B-Loc	B-Attr	O	B-Attr	I-Attr	O
+O	O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	O	O	O	O	B-Loc	O	O	O	O	O
+The	lungs	show	patchy	bilateral	atelectasis/pneumonia	and	bilateral	pleural	effusions	,	mildly	improved	from	the	prior	exam	.
+O	B-Loc	O	B-Val	B-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O	B-Cos	I-Cos	B-Ref	I-Ref	I-Ref	I-Ref	O
+O	B-Loc	O	B-Val	B-Loc	B-Attr	O	B-Loc	B-Loc	B-Attr	O	O	B-Cos	O	O	I-Ref	O	O
+Increased	right	pleural	effusion	and	unchanged	consolidation	in	the	right	lower	lobe	,	likely	atelectasis	,	aspiration	,	or	pneumonia	.
+B-Cos	B-Loc	I-Loc	B-Attr	O	B-Cos	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	O	B-Attr	O	B-Attr	O	O	B-Attr	O
+B-Cos	I-Val	B-Loc	B-Attr	O	B-Cos	B-Attr	O	O	I-Val	B-Loc	B-Loc	O	O	B-Attr	O	B-Attr	O	O	B-Attr	O
+Increased	opacity	of	the	right	hemithorax	with	associated	volume	loss	is	again	noted	.
+B-Cos	B-Attr	O	O	B-Loc	I-Loc	O	B-Val	B-Attr	I-Attr	O	B-Ref	I-Ref	O
+B-Cos	B-Attr	O	O	I-Val	B-Loc	O	O	O	O	O	O	O	O
+There	is	continued	obscuration	of	the	left	lung	base	,	likely	due	to	left	lower	lobe	atelectasis	and	pleural	effusion	.
+O	O	B-Cos	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	O	O	O	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Loc	B-Attr	O
+O	O	B-Cos	B-Attr	O	O	I-Val	B-Loc	O	O	O	O	O	I-Val	B-Loc	B-Loc	B-Attr	O	B-Loc	B-Attr	O
+There	is	stable	obscuration	of	bilateral	lung	bases	,	likely	due	to	layering	pleural	effusions	and	atelectasis	.
+O	O	B-Cos	B-Attr	O	B-Loc	I-Loc	I-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O
+O	O	B-Cos	B-Attr	O	B-Loc	B-Loc	B-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O
+Low	lung	volumes	a	subtle	bilateral	basilar	atelectasis	.
+B-Val	B-Loc	B-Attr	O	B-Val	B-Loc	I-Loc	B-Attr	O
+B-Val	B-Loc	O	O	O	B-Loc	B-Loc	B-Attr	O
+The	patchy	right	hilar	and	left	upper	lobe	opacities	are	unchanged	,	likely	edema	versus	infection	.
+O	B-Val	B-Loc	I-Loc	O	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	O	O	B-Attr	O	B-Attr	O
+O	B-Val	I-Val	B-Loc	O	I-Val	B-Loc	B-Loc	B-Attr	O	B-Cos	O	O	B-Attr	O	O	O
+The	lungs	show	patchy	bilateral	atelectasis/pneumonia	and	left	lower	lobe	collapse	,	without	substantial	interval	change	.
+O	B-Loc	O	B-Val	B-Loc	B-Attr	O	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	I-Cos	I-Cos	I-Cos	O
+O	B-Loc	O	B-Val	B-Loc	B-Attr	O	I-Val	B-Loc	B-Loc	B-Attr	O	O	O	O	O	O
+Bilateral	pleural	effusions	and	bibasilar	consolidation	is	unchanged	.
+B-Loc	I-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Cos	O
+B-Loc	B-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Cos	O
+There	is	been	interval	increase	in	perihilar	opacities	,	right	greater	than	left	.
+O	O	O	B-Cos	I-Cos	O	B-Loc	B-Attr	O	B-Val	I-Val	I-Val	I-Val	O
+O	O	O	O	O	O	B-Loc	B-Attr	O	I-Val	O	O	I-Val	O
+Compared	to	prior	examination	from	XXXX	on	the	same	date	,	there	is	hazy	opacification	of	the	right	hemithorax	.	This	could	represent	layering	pleural	effusion	versus	atelectasis	related	mucous	plug	versus	pulmonary	edema	.	Lung	volumes	are	low	.	There	is	additional	left	lower	lobe	atelectasis	.
+B-Ref	I-Ref	I-Ref	I-Ref	I-Ref	I-Ref	I-Ref	I-Ref	I-Ref	I-Ref	O	O	O	B-Val	B-Attr	O	O	B-Loc	I-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	I-Attr	I-Attr	I-Attr	O	B-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Val	O	O	O	B-Val	B-Loc	I-Loc	I-Loc	B-Attr	O
+O	O	I-Ref	O	O	O	O	O	B-Cos	O	O	O	O	B-Val	B-Attr	O	O	I-Val	B-Loc	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O	B-Attr	O	O	B-Loc	B-Attr	O	B-Loc	O	O	B-Val	O	O	O	O	I-Val	B-Loc	B-Loc	B-Attr	O
+Lungs	:	Persistent	atelectasis	the	right	lower	lobe	.
+B-Loc	O	B-Cos	B-Attr	O	B-Loc	I-Loc	I-Loc	O
+B-Loc	O	B-Cos	B-Attr	O	I-Val	B-Loc	B-Loc	O
+Lungs	:	Lung	volumes	are	unchanged	.	Bibasilar	opacities	are	unchanged	in	appearance	,	incompletely	imaged	on	this	semiupright	view	.	These	likely	represent	a	combination	of	airless	lung	and	pleural	fluid	.
+B-Loc	O	B-Loc	B-Attr	O	B-Cos	O	B-Loc	B-Attr	O	B-Cos	O	O	O	O	O	O	O	O	O	O	O	O	O	B-Val	I-Val	I-Val	B-Attr	I-Attr	O	B-Loc	B-Attr	O
+B-Loc	O	B-Loc	O	O	B-Cos	O	B-Loc	B-Attr	O	B-Cos	O	O	O	O	O	O	O	B-Val	O	O	O	O	O	O	O	O	O	B-Loc	O	B-Loc	O	O
+No	change	in	diffuse	lung	opacities	and	right	pulmonary	laceration	allowing	for	differences	in	lung	volumes	and	patient	positioning	.
+B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O	O	O	O	B-Loc	B-Attr	O	B-Attr	I-Attr	O
+O	O	O	B-Val	B-Loc	B-Attr	O	I-Val	B-Loc	B-Attr	O	O	O	O	B-Loc	O	O	O	O	O
+Impression	:	Interval	collapse	of	the	right	upper	lobe	with	associated	localized	pleural	effusion	.	Stable	pulmonary	opacities	.
+O	O	B-Val	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	O	B-Val	B-Loc	B-Attr	O	B-Cos	B-Loc	B-Attr	O
+O	O	O	B-Attr	O	O	I-Val	B-Loc	B-Loc	O	O	O	B-Loc	B-Attr	O	B-Cos	B-Loc	B-Attr	O
+Stable	diffuse	lung	disease	.
+B-Cos	B-Val	B-Loc	B-Attr	O
+B-Cos	B-Val	B-Loc	O	O
+Stable	bilateral	lower	lobe	opacity	,	could	represent	aspiration	versus	atelectasis	.
+B-Val	B-Loc	I-Loc	I-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	O
+B-Cos	B-Loc	B-Loc	B-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	O
+Lungs	:	There	is	increased	left	lower	lobe	opacity	which	may	represent	atelectasis	or	pneumonia	..
+B-Loc	O	O	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	O
+B-Loc	O	O	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	O
+Right	basilar	opacity	is	stable	,	and	could	represent	aspiration	,	atelectasis	,	or	pneumonia	.
+B-Loc	I-Loc	B-Attr	O	B-Cos	O	O	O	O	B-Attr	O	B-Attr	O	O	B-Attr	O
+I-Val	B-Loc	B-Attr	O	B-Cos	O	O	O	O	B-Attr	O	B-Attr	O	O	B-Attr	O
+Stable	bibasilar	opacities	are	present	,	likely	representing	a	combination	of	contusion	and	hemorrhage	related	to	penetrating	trauma	.
+B-Cos	B-Loc	B-Attr	O	O	O	O	O	B-Val	I-Val	I-Val	B-Attr	O	B-Attr	O	O	B-Val	B-Attr	O
+B-Cos	B-Loc	B-Attr	O	O	O	O	O	O	O	O	B-Attr	O	B-Attr	O	O	O	O	O
+Unchanged	diffuse	bilateral	parenchymal	opacities	.
+B-Cos	B-Val	B-Loc	I-Loc	B-Attr	O
+B-Cos	B-Val	B-Loc	B-Loc	B-Attr	O
+The	lungs	show	patchy	bilateral	atelectasis	,	without	substantial	interval	change	.	No	new	focal	abnormalities	.
+O	B-Loc	O	B-Val	B-Loc	B-Attr	O	B-Cos	I-Cos	I-Cos	I-Cos	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	B-Loc	O	B-Val	B-Loc	B-Attr	O	O	O	O	O	O	O	B-Cos	O	O	O
+Lungs	:	Persistent	bibasilar	atelectasis
+B-Loc	O	B-Cos	B-Loc	B-Attr
+B-Loc	O	B-Cos	B-Loc	B-Attr
+Stable	diffuse	lung	disease	is	present	,	representing	diffuse	alveolar	damage	versus	infection	.
+B-Cos	B-Val	B-Loc	B-Attr	O	O	O	O	B-Val	B-Loc	B-Attr	O	B-Attr	O
+B-Cos	B-Val	B-Loc	O	O	O	O	O	B-Val	B-Loc	O	O	O	O
+Stable	pulmonary	edema	versus	infection	is	present	.
+B-Cos	B-Loc	B-Attr	O	B-Attr	O	O	O
+B-Cos	B-Loc	B-Attr	O	O	O	O	O
+Lungs	are	hypoinflated	with	linear	densities	at	the	bases	consistent	with	atelectasis	.
+B-Loc	O	B-Attr	O	B-Loc	B-Attr	O	O	B-Loc	O	O	B-Attr	O
+B-Loc	O	B-Attr	O	O	O	O	O	B-Loc	O	O	B-Attr	O
+Left	mid	zone	consolidation	.
+B-Loc	I-Loc	I-Loc	B-Attr	O
+I-Val	B-Loc	O	B-Attr	O
+There	are	bilateral	perihilar	opacities	that	are	unchanged	.
+O	O	B-Loc	I-Loc	B-Attr	O	O	B-Cos	O
+O	O	B-Loc	B-Loc	B-Attr	O	O	B-Cos	O
+Patchy	bilateral	predominantly	lower	lobe	atelectasis/pneumonia	is	unchanged	from	this	morning	's	exam	.
+B-Val	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	B-Ref	I-Ref	I-Ref	I-Ref	I-Ref	O
+B-Val	B-Loc	O	B-Loc	B-Loc	B-Attr	O	B-Cos	O	O	O	O	O	O
+Interval	decrease	in	lung	volumes	with	worsened	right	basilar	atelectasis	and	unchanged	minimal	atelectasis	at	the	left	base	.
+B-Cos	I-Cos	O	B-Loc	B-Attr	O	B-Cos	B-Loc	I-Loc	B-Attr	O	B-Cos	B-Val	B-Attr	O	O	B-Loc	I-Loc	O
+O	O	O	B-Loc	O	O	B-Cos	I-Val	B-Loc	B-Attr	O	B-Cos	O	B-Attr	O	O	I-Val	O	O
+There	is	persistent	right	lower	lobe	opacity	with	volume	loss	consistent	with	atelectasis	.
+O	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Attr	I-Attr	O	O	B-Attr	O
+O	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	O	O	O	O	B-Attr	O
+There	right	upper	lobe	volume	loss	.	Otherwise	,	no	significant	interval	changes	in	appearance	of	bilateral	pulmonary	opacities	and	likely	bilateral	pleural	effusions	.
+O	B-Loc	I-Loc	I-Loc	B-Attr	I-Attr	O	O	O	B-Cos	I-Cos	I-Cos	I-Cos	O	O	O	B-Loc	I-Loc	B-Attr	O	O	B-Loc	I-Loc	B-Attr	O
+O	I-Val	B-Loc	B-Loc	O	O	O	O	O	O	O	O	O	O	O	O	B-Loc	B-Loc	B-Attr	O	O	B-Loc	B-Loc	B-Attr	O
+Persistent	left	lower	lobe	consolidation	may	represent	atelectasis	,	aspiration	,	or	infection	.
+B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O	O	B-Attr	O
+B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	O	B-Attr	O	B-Attr	O	O	O	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	diffuse	lung	edema	or	injury	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Val	B-Loc	B-Attr	O	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	B-Val	B-Loc	B-Attr	O	O	O
+There	is	worsening	left	lower	lobe	atelectasis	.
+O	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O
+O	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O
+There	are	basal	opacities	which	could	be	atelectasis	or	pneumonia	slightly	improving	.
+O	O	B-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	B-Cos	I-Cos	O
+O	O	B-Loc	B-Attr	O	O	O	B-Attr	O	B-Attr	B-Cos	B-Cos	O
+The	lungs	show	very	low	volumes	and	associated	persistent	mild	bibasilar	atelectasis	.
+O	B-Loc	O	B-Val	I-Val	B-Attr	O	O	B-Cos	B-Val	B-Loc	B-Attr	O
+O	B-Loc	O	O	B-Val	O	O	O	B-Cos	B-Val	B-Loc	B-Attr	O
+Bilateral	pleural	effusions	are	present	,	unchanged	.	These	impart	part	lower	lobe	compressive	atelectasis	.
+B-Loc	I-Loc	B-Attr	O	O	O	B-Cos	O	O	O	B-Loc	I-Loc	I-Loc	B-Val	B-Attr	O
+B-Loc	B-Loc	B-Attr	O	O	O	B-Cos	O	O	O	O	B-Loc	B-Loc	O	B-Attr	O
+Opacities	:	Dense	confluent	opacity	above	the	minor	fissure	is	now	noted	,	consistent	with	partial	right	upper	lobe	collapse
+B-Attr	O	B-Val	I-Val	B-Attr	B-Loc	I-Loc	I-Loc	I-Loc	O	B-Cos	I-Cos	O	O	O	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr
+B-Attr	O	O	B-Val	B-Attr	B-Ref	O	O	O	O	O	O	O	O	O	O	I-Val	B-Loc	B-Loc	B-Attr
+There	is	bibasilar	atelectasis	.
+O	O	B-Loc	B-Attr	O
+O	O	B-Loc	B-Attr	O
+Patchy	bibasilar	opacities	persist	which	may	represent	atelectasis	versus	infection	.
+B-Val	B-Loc	B-Attr	B-Cos	O	O	O	B-Attr	O	B-Attr	O
+B-Val	B-Loc	B-Attr	B-Cos	O	O	O	B-Attr	O	O	O
+No	change	in	mild	diffuse	lung	opacities	consistent	with	pulmonary	edema/pneumonia	and	lower	lobe	atelectasis	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Val	I-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Val	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Loc	B-Loc	B-Attr	O	O	B-Cos	O	O	O
+There	are	bilateral	opacities	that	are	unchanged	.
+O	O	B-Loc	B-Attr	O	O	B-Cos	O
+O	O	B-Loc	B-Attr	O	O	B-Cos	O
+Lungs	:	Left	lung	has	partially	reexpanded	,	with	persistent	left	lower	lobe	atelectasis	.
+B-Loc	O	B-Loc	I-Loc	O	B-Cos	I-Cos	O	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O
+B-Loc	O	I-Val	B-Loc	O	B-Val	O	O	O	B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O
+Persistent	segmental	right	upper	lobe	atelectasis	.	Bibasilar	atelectasis	is	unchanged	.
+B-Cos	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Cos	O
+B-Cos	B-Loc	I-Val	B-Loc	B-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Cos	O
+Left	lower	lobe	collapse	and	right	basilar	atelectasis	persist	.
+B-Loc	I-Loc	I-Loc	B-Attr	O	B-Loc	I-Loc	B-Attr	B-Cos	O
+I-Val	B-Loc	B-Loc	B-Attr	O	I-Val	B-Loc	B-Attr	B-Cos	O
+No	change	in	mild	edema	and	patchy	atelectasis/pneumonia	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Val	B-Attr	O	B-Val	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Val	B-Attr	O	B-Val	B-Attr	O	O	B-Cos	O	O	O
+Persistent	bilateral	basilar	atelectasis	.
+B-Cos	B-Loc	I-Loc	B-Attr	O
+B-Cos	B-Loc	B-Loc	B-Attr	O
+Right	middle	lobe	and	right	lower	lobe	partial	collapse	has	increased	.	Lungs	are	otherwise	clear	.
+B-Loc	I-Loc	I-Loc	O	B-Loc	I-Loc	I-Loc	B-Val	B-Attr	O	B-Cos	O	B-Loc	O	O	B-Val	O
+I-Val	B-Loc	B-Loc	O	I-Val	B-Loc	B-Loc	O	B-Attr	O	B-Cos	O	B-Loc	O	O	O	O
+There	is	stable	patchy	right	basilar	density	likely	atelectasis	.
+O	O	B-Cos	B-Val	B-Loc	I-Loc	B-Attr	O	B-Attr	O
+O	O	B-Cos	B-Val	I-Val	B-Loc	O	O	B-Attr	O
+There	are	diffuse	bilateral	patchy	opacities	likely	from	diffuse	lung	injury	.
+O	O	B-Val	B-Loc	B-Val	B-Attr	O	O	B-Val	B-Loc	B-Attr	O
+O	O	B-Val	B-Loc	B-Val	B-Attr	O	O	B-Val	B-Loc	O	O
+Patchy	bilateral	opacities	not	significant	change	compared	to	yesterday	's	exam	,	likely	atelecasis	.
+B-Val	B-Loc	B-Attr	B-Cos	I-Cos	I-Cos	B-Ref	I-Ref	I-Ref	I-Ref	I-Ref	O	O	B-Attr	O
+B-Val	B-Loc	B-Attr	O	O	O	O	O	O	O	O	O	O	B-Loc	O
+Lungs	:	Stable	bilateral	opacities	,	consistent	with	diffuse	lung	injury	.
+B-Loc	O	B-Cos	B-Loc	B-Attr	O	O	O	B-Val	B-Loc	B-Attr	O
+B-Loc	O	B-Cos	B-Loc	B-Attr	O	O	O	B-Val	B-Loc	O	O
+The	lungs	show	patchy	bilateral	atelectasis/pneumonia	,	without	substantial	interval	change	.
+O	O	O	O	O	O	O	O	O	O	O	O
+O	B-Loc	O	B-Val	B-Loc	B-Attr	O	O	O	O	O	O
+As	before	,	there	is	asymmetric	density	in	the	right	lung	,	likely	representing	basal	volume	loss	.
+B-Ref	I-Ref	O	O	O	B-Val	B-Attr	O	O	B-Loc	I-Loc	O	O	O	B-Loc	B-Attr	I-Attr	O
+O	O	O	O	O	B-Val	O	O	O	I-Val	B-Loc	O	O	O	B-Loc	O	O	O
+The	lungs	are	clear	,	except	for	mild	bibasilar	atelectasis	.
+O	B-Loc	O	B-Val	O	O	O	B-Val	B-Loc	B-Attr	O
+O	B-Loc	O	O	O	O	O	B-Val	B-Loc	B-Attr	O
+Findings	:	Dense	opacity	in	the	LLL	presumed	to	be	atelectasis	VS	contusion	.
+O	O	B-Val	B-Attr	O	O	B-Loc	O	O	O	B-Attr	O	B-Attr	O
+O	O	O	B-Attr	O	O	B-Loc	O	O	O	B-Attr	O	B-Attr	O
+Bibasilar	atelectasis	persists	.	No	new	focal	abnormalities	.
+B-Loc	B-Attr	B-Cos	O	B-Cos	I-Cos	B-Val	B-Attr	O
+B-Loc	B-Attr	B-Cos	O	O	B-Cos	O	O	O
+No	change	in	edema	and	patchy	atelectasis	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Attr	O	B-Val	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Attr	O	B-Val	B-Attr	O	O	B-Cos	O	O	O
+Impression	:	Radiographically	stable	.	No	substantial	interval	change	in	bibasilar	opacities	or	bilateral	lower	lobe	volume	loss	..
+O	O	B-Attr	B-Cos	O	B-Cos	I-Cos	I-Cos	I-Cos	O	B-Loc	B-Attr	O	B-Loc	I-Loc	I-Loc	B-Attr	I-Attr	O
+O	O	O	B-Cos	O	O	O	O	O	O	B-Loc	B-Attr	O	B-Loc	B-Loc	B-Loc	O	O	O
+Worsening	diffuse	right	lung	disease	with	basilar	atelectasis	.
+B-Cos	B-Val	B-Loc	I-Loc	B-Attr	O	B-Loc	B-Attr	O
+B-Cos	B-Val	I-Val	B-Loc	O	O	B-Loc	B-Attr	O
+Persistent	pleural	effusions	and	adjacent	basal	atelectasis	.	Persistent	diffuse	lung	disease	,	likely	edema	or	alveolar	damage	.
+B-Cos	B-Loc	B-Attr	O	B-Val	B-Loc	B-Attr	O	B-Cos	B-Val	B-Loc	B-Attr	O	O	B-Attr	O	B-Loc	B-Attr	O
+B-Cos	B-Loc	B-Attr	O	B-Loc	B-Loc	B-Attr	O	B-Cos	B-Val	B-Loc	O	O	O	B-Attr	O	B-Loc	O	O
+No	change	in	mild	edema	and	patchy	atelectasis	.	No	new	focal	abnormalities	.
+B-Cos	I-Cos	O	B-Val	B-Attr	O	B-Val	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O
+O	O	O	B-Val	B-Attr	O	B-Val	B-Attr	O	O	B-Cos	O	O	O
+Lungs	:	Left	retrocardiac	opacity	persists	.
+B-Loc	O	B-Loc	I-Loc	B-Attr	B-Cos	O
+B-Loc	O	I-Val	B-Loc	B-Attr	B-Cos	O
+Unchanged	bibasilar	atelectasis	and	small	bilateral	pleural	effusions	.
+B-Cos	B-Loc	B-Attr	O	B-Val	B-Loc	I-Loc	B-Attr	O
+B-Cos	B-Loc	B-Attr	O	B-Val	B-Loc	B-Loc	B-Attr	O
+Persistently	low	lung	volumes	with	bibasilar	atelectasis	.
+B-Cos	B-Val	B-Loc	B-Attr	O	B-Loc	B-Attr	O
+B-Cos	B-Val	B-Loc	O	O	B-Loc	B-Attr	O
+Lungs	remain	clear	.
+B-Loc	B-Cos	B-Val	O
+B-Loc	B-Cos	O	O
+Lungs	:	Small	pleural	effusions	or	bibasilar	atelectasis	with	pulmonary	edema	slightly	worse	than	prior	exam	..
+B-Loc	O	B-Val	B-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Loc	B-Attr	B-Cos	I-Cos	B-Ref	I-Ref	I-Ref	O
+B-Loc	O	B-Val	B-Loc	B-Attr	O	B-Loc	B-Attr	O	B-Loc	B-Attr	B-Cos	B-Cos	O	I-Ref	O	O
+Opacities	:	Mild	,	bibasilar	opacities	are	unchanged	.	Bilateral	upper	lobe	opacities	have	increased	slightly
+B-Attr	O	B-Val	O	B-Loc	B-Attr	O	B-Cos	O	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Cos	I-Cos
+B-Attr	O	B-Val	O	B-Loc	B-Attr	O	B-Cos	O	B-Loc	B-Loc	B-Loc	B-Attr	O	B-Cos	B-Cos
+Opacities	:	Patchy	,	confluent	,	bilateral	and	unchanged
+B-Attr	O	B-Val	O	B-Val	O	B-Loc	O	B-Cos
+B-Attr	O	B-Val	O	B-Val	O	B-Loc	O	B-Cos
+Opacities	:	Dense	opacification	of	the	right	upper	lobe	,	consistent	with	collapse	as	above	.
+B-Attr	O	B-Val	B-Attr	O	O	B-Loc	I-Loc	I-Loc	O	O	O	B-Attr	B-Ref	I-Ref	O
+B-Attr	O	O	B-Attr	O	O	I-Val	B-Loc	B-Loc	O	O	O	B-Attr	O	B-Ref	O
+Findings	:	Interval	increase	atelectasis	of	the	right	lung	and	a	small	right	apical	pneumothorax	.
+O	O	B-Cos	I-Cos	B-Attr	O	O	B-Loc	I-Loc	O	B-Val	I-Val	B-Loc	I-Loc	B-Attr	O
+O	O	O	O	B-Attr	O	O	I-Val	B-Loc	O	O	B-Val	I-Val	B-Loc	B-Attr	O
+Lungs	:	As	before	,	bilateral	basilar	opacities	.
+B-Loc	O	B-Ref	I-Ref	O	B-Loc	I-Loc	B-Attr	O
+B-Loc	O	O	O	O	B-Loc	B-Loc	B-Attr	O
+Left	basilar	consolidation	persists	,	atelectasis	or	pneumonia	.
+B-Loc	I-Loc	B-Attr	B-Cos	O	B-Attr	O	B-Attr	O
+I-Val	B-Loc	B-Attr	B-Cos	O	B-Attr	O	B-Attr	O
+Lungs	:	Left	basilar	opacity	obscuring	the	left	hemidiaphragm	is	still	present	.
+B-Loc	O	B-Loc	I-Loc	B-Attr	B-Val	O	B-Loc	I-Loc	O	B-Cos	I-Cos	O
+B-Loc	O	I-Val	B-Loc	B-Attr	B-Val	O	I-Val	I-Loc	O	B-Cos	O	O
+There	is	persistent	right	upper	lobe	airspace	disease	as	well	as	right	pleural	effusion	.
+O	O	B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	I-Attr	O	O	O	B-Loc	I-Loc	B-Attr	O
+O	O	B-Cos	I-Val	B-Loc	B-Loc	B-Loc	O	O	O	O	I-Val	B-Loc	B-Attr	O
+Bibasilar	opacities	are	most	consistent	with	atelectasis	.	No	other	new	focal	abnormalities	.
+B-Loc	B-Attr	O	O	O	O	B-Attr	O	B-Cos	I-Cos	I-Cos	B-Val	B-Attr	O
+B-Loc	B-Attr	O	O	O	O	B-Attr	O	O	B-Loc	B-Cos	O	O	O
+Increased	basilar	atelectasis	.
+B-Cos	B-Loc	B-Attr	O
+B-Cos	B-Loc	B-Attr	O
+Patchy	lower	lung	left	greater	than	right	opacities	persist	.
+B-Val	B-Loc	I-Loc	B-Val	I-Val	I-Val	I-Val	B-Attr	B-Cos	O
+B-Val	B-Loc	B-Loc	I-Val	O	O	I-Val	B-Attr	B-Cos	O
+Persistent	right	upper	lobe	opacity	,	which	may	represent	pneumonia	,	atelectasis	,	possibly	with	a	component	of	pleural	effusion	.
+B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O	O	O	O	B-Attr	O	B-Attr	O	O	O	O	O	O	B-Loc	B-Attr	O
+B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O	O	O	O	B-Attr	O	B-Attr	O	O	O	O	O	O	B-Loc	B-Attr	O
+Increasing	left	lower	lobe	collapse	.
+B-Cos	B-Loc	I-Loc	I-Loc	B-Attr	O
+B-Cos	I-Val	B-Loc	B-Loc	B-Attr	O
+Low	lung	volume	with	persistent	mild	bibasilar	atelectasis	.
+B-Val	B-Loc	B-Attr	O	B-Cos	B-Val	B-Loc	B-Attr	O
+B-Val	B-Loc	O	O	B-Cos	B-Val	B-Loc	B-Attr	O
+Lungs	:	Interval	increase	in	right	lung	base	pulmonary	opacity	with	air	bronchograms	,	increasing	pneumonitis/atelectasis	.
+B-Loc	O	B-Cos	I-Cos	O	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O	B-Attr	I-Attr	O	B-Cos	B-Attr	I-Attr
+B-Loc	O	O	O	O	I-Val	B-Loc	O	B-Loc	B-Attr	O	O	O	O	B-Cos	B-Attr	O
+Stable	examination	,	demonstrating	patchy	bilateral	atelectasis	.
+B-Cos	B-Attr	O	O	B-Val	B-Loc	B-Attr	O
+B-Cos	O	O	O	B-Val	B-Loc	B-Attr	O
+There	is	bilateral	lower	lung	zone	atelectasis	.
+O	O	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O
+O	O	B-Loc	B-Loc	B-Loc	O	B-Attr	O
+Lungs	:	Diffuse	lung	opacities	consistent	with	lung	injury	and	dominant	on	the	left	are	probably	slightly	worse	with	slight	more	focality	,	in	the	left	upper	lobe	and	lung	base	.
+B-Loc	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Val	I-Val	I-Val	I-Val	O	O	B-Cos	I-Cos	O	B-Val	I-Val	I-Val	O	O	O	B-Loc	I-Loc	I-Loc	O	B-Loc	I-Loc	O
+B-Loc	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	O	O	O	O	O	I-Val	O	O	B-Cos	B-Cos	O	B-Cos	B-Cos	O	O	O	O	I-Val	B-Loc	B-Loc	O	B-Loc	O	O
+Diffuse	lung	disease	has	improved	,	either	from	pulmonary	edema	,	infection	,	alveolar	damage	.
+B-Val	B-Loc	B-Attr	O	B-Cos	O	O	O	B-Loc	B-Attr	O	B-Attr	O	B-Loc	B-Attr	O
+B-Val	B-Loc	O	O	B-Cos	O	O	O	B-Loc	B-Attr	O	O	O	B-Loc	O	O
+No	definite	new	focal	abnormalities	.
+B-Cos	I-Cos	I-Cos	B-Val	B-Attr	O
+O	O	B-Cos	O	O	O
+Interval	opacification	of	the	superior	segment	of	the	right	lower	lobe	and	milder	diffuse	opacification	of	the	right	hemithorax	consistent	with	aspiration	pneumonia	,	atelectasis	and/or	layering	pleural	effusion	.
+B-Cos	B-Attr	O	O	B-Loc	I-Loc	I-Loc	I-Loc	I-Loc	I-Loc	I-Loc	O	B-Cos	B-Val	B-Attr	O	O	B-Loc	I-Loc	O	O	B-Attr	I-Attr	O	B-Attr	O	B-Val	B-Loc	B-Attr	O
+O	B-Attr	O	O	B-Loc	O	O	O	I-Val	B-Loc	B-Loc	O	B-Val	B-Val	B-Attr	O	O	I-Val	B-Loc	O	O	B-Attr	B-Attr	O	B-Attr	O	B-Val	B-Loc	B-Attr	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	low	lung	volumes	with	partial	bilateral	lower	lobe	atelectasis	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Val	B-Loc	B-Attr	O	B-Loc	I-Loc	I-Loc	I-Loc	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	B-Val	B-Loc	O	O	O	B-Loc	B-Loc	B-Loc	B-Attr	O
+No	new	focal	abnormalities	..
+B-Cos	I-Cos	B-Val	B-Attr	O
+O	B-Cos	O	O	O
+No	change	in	diffuse	lung	opacities	consistent	with	pulmonary	edema	.	No	new	focal	abnormalities	.	Likely	right	pleural	effusion	similar	to	prior	.
+B-Cos	I-Cos	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	B-Cos	I-Cos	B-Val	B-Attr	O	O	B-Loc	I-Loc	B-Attr	B-Ref	I-Ref	I-Ref	O
+O	O	O	B-Val	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O	O	B-Cos	O	O	O	O	I-Val	B-Loc	B-Attr	B-Cos	O	I-Ref	O
+This	is	slightly	worse	on	the	right	when	compared	to	prior	.
+O	O	B-Cos	I-Cos	O	O	B-Loc	O	B-Ref	I-Ref	I-Ref	O
+O	O	B-Cos	B-Cos	O	O	I-Val	O	O	O	I-Ref	O
+As	before	there	are	persistent	bibasilar	opacities	and	diffuse	opacity	of	the	right	lung	,	likely	secondary	to	a	pleural	effusion	.
+B-Ref	I-Ref	O	O	B-Cos	B-Loc	B-Attr	O	B-Val	B-Attr	O	O	B-Loc	I-Loc	O	O	O	O	O	B-Loc	B-Attr	O
+O	O	O	O	B-Cos	B-Loc	B-Attr	O	B-Val	B-Attr	O	O	I-Val	B-Loc	O	O	O	O	O	B-Loc	B-Attr	O
+Opacities	:	Patchy	,	confluent	,	bibasilar	and	unchanged
+B-Attr	O	B-Val	O	B-Val	O	B-Loc	O	B-Cos
+B-Attr	O	B-Val	O	B-Val	O	B-Loc	O	B-Cos
+Since	the	prior	examination	,	there	has	been	increase	of	the	right	lung	opacity	indicating	pneumonia	or	progressive	atelectasis	.	The	chest	is	otherwise	unchanged	,	again	demonstrating	consolidating	left	lower	lobe	atelectasis	or	pneumonia	.
+B-Ref	I-Ref	I-Ref	I-Ref	O	O	O	O	B-Cos	O	O	B-Loc	I-Loc	B-Attr	O	B-Attr	O	B-Val	B-Attr	O	O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Val	B-Loc	I-Loc	I-Loc	B-Attr	O	B-Attr	O
+O	O	I-Ref	O	O	O	O	O	O	O	O	I-Val	B-Loc	B-Attr	O	B-Attr	O	O	B-Attr	O	O	B-Loc	O	O	B-Cos	O	O	O	B-Val	I-Val	B-Loc	B-Loc	B-Attr	O	B-Attr	O
+The	chest	is	otherwise	unchanged	,	again	demonstrating	cardiomegaly	,	pulmonary	edema	or	lung	injury	,	and	basilar	atelectasis	.
+O	B-Loc	O	O	B-Cos	O	B-Ref	O	B-Attr	O	B-Loc	B-Attr	O	B-Loc	B-Attr	O	O	B-Loc	B-Attr	O
+O	B-Loc	O	O	B-Cos	O	O	O	B-Attr	O	B-Loc	B-Attr	O	B-Loc	O	O	O	B-Loc	B-Attr	O
+Bilateral	patchy	perihilar	opacities	,	unchanged	.
+B-Loc	B-Val	B-Loc	B-Attr	O	B-Cos	O
+B-Loc	B-Val	B-Loc	B-Attr	O	B-Cos	O
+There	is	persistent	bibasilar	densities	,	likely	due	to	pleural	effusions	and	atelectasis	.
+O	O	B-Cos	B-Loc	B-Attr	O	O	O	O	B-Loc	B-Attr	O	B-Attr	O
+O	O	B-Cos	B-Loc	O	O	O	O	O	B-Loc	B-Attr	O	B-Attr	O

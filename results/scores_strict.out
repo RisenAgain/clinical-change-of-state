@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+        Attr       0.96      0.76      0.85       481
+         Cos       0.73      0.65      0.69       223
+         Loc       0.42      0.57      0.49       378
+         Ref       0.00      0.00      0.00        35
+         Val       0.74      0.56      0.64       193
+
+   micro avg       0.68      0.64      0.66      1310
+   macro avg       0.57      0.51      0.53      1310
+weighted avg       0.71      0.64      0.66      1310

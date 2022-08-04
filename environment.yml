@@ -1,0 +1,21 @@
+# run: conda env create --file environment.yml
+name: 573-env
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+  - pytorch
+  - huggingface
+dependencies:
+  - pip=21.0.1
+  - nvidia::cudatoolkit=11.2
+  - python=3.9.2
+  - pytorch::pytorch
+  - transformers
+  - nltk
+  - jupyterlab
+  - notebook
+  - pip:
+    # works for regular pip 
+    - -r requirements.txt
+    
